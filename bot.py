@@ -16,7 +16,7 @@ if not DISCORD_WEBHOOK:
     print("Missing DISCORD_WEBHOOK_URL env var.")
     sys.exit(1)
 
-MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "10"))
+MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "1"))
 
 # ---- Analyst filtering ----
 # Include these keywords (case-insensitive) in the title
@@ -160,8 +160,7 @@ def main():
     new_jobs = []
     for j in analyst_jobs:
         jid = stable_job_id(j)
-        if jid not in seen:
-            new_jobs.append((jid, j))
+        new_jobs.append((jid, j))
 
     if not new_jobs:
         print("No new analyst jobs found.")
