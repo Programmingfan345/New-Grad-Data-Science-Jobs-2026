@@ -16,7 +16,7 @@ if not DISCORD_WEBHOOK:
     print("Missing DISCORD_WEBHOOK_URL env var.")
     sys.exit(1)
 
-MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "1"))
+MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "10"))
 
 # ---- Analyst filtering ----
 # Include these keywords (case-insensitive) in the title
@@ -111,9 +111,9 @@ def stable_job_id(job: dict[str, Any]) -> str:
     city = norm(str(job.get("job_city", "")))
     state = norm(str(job.get("job_state", "")))
     link = norm(str(job.get("job_apply_link", "")))
-    posted = norm(str(job.get("job_posted_at", "")))
+    # posted = norm(str(job.get("job_posted_at", "")))
 
-    return f"{employer}||{title}||{city}||{state}||{link}||{posted}"
+    return f"{employer}||{title}||{city}||{state}||{link}"
 
 def format_location(job: dict[str, Any]) -> str:
     city = (job.get("job_city") or "").strip()
@@ -154,7 +154,7 @@ def main():
     jobs = fetch_jobs()
 
     # Filter to analyst-type roles only
-    analyst_jobs = jobs  # FORCE TEST: bypass analyst filter
+    analyst_jobs = [j for j in jobs if is_analyst_role(str(j.get("job_title", "")))]
 
     # New ones only
     new_jobs = []
