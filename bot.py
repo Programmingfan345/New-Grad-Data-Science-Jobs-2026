@@ -154,7 +154,7 @@ def main():
     jobs = fetch_jobs()
 
     # Filter to analyst-type roles only
-    analyst_jobs = [j for j in jobs if is_analyst_role(str(j.get("job_title", "")))]
+    analyst_jobs = jobs  # FORCE TEST: bypass analyst filter
 
     # New ones only
     new_jobs = []
