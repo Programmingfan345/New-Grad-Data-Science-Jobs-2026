@@ -8,7 +8,7 @@ from typing import Any
 import requests
 
 # ✅ Correct data source (raw JSON)
-JOBS_URL = "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026/main/data/transformed_jobs.json"
+JOBS_URL = "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026/main/jobboard/src/data/transformed_jobs.json"
 STATE_FILE = "seen_jobs.json"
 
 DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
