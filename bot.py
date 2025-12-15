@@ -21,7 +21,17 @@ MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "10"))
 # ---- Analyst filtering ----
 # Include these keywords (case-insensitive) in the title
 INCLUDE_TITLE_KEYWORDS = [
-    "analyst"
+    "data analyst",
+    "business analyst",
+    "product analyst",
+    "analytics",
+    "bi analyst",
+    "business intelligence",
+    "reporting analyst",
+    "insights analyst",
+    "data science",
+    "data scientist",
+    "science",
 ]
 
 # Exclude obvious non-analyst roles
