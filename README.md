@@ -105,8 +105,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Analyst | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200615676-3956/data-analyst?team=MKTG) | 21h |
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636490-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 2d |
+| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 5d |
 | AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 5d |
 
 ### 🏢 **Top Tech** (1 position)
@@ -182,8 +182,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 4 | 15% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 18 | 69% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 12% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 19 | 73% | 1-2 years of experience. |
 | 🔴 Manager | 4 | 15% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -191,7 +191,7 @@ No companies available
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 4 positions
-- **Sunnyvale, CA**: 3 positions
+- **Sunnyvale, CA**: 2 positions
 - **San Diego, CA**: 2 positions
 - **New York, NY**: 2 positions
 - **San Francisco, CA**: 2 positions
