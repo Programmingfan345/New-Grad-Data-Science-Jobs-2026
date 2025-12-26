@@ -128,7 +128,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| FE Materials Business Intelligence Analyst | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/39196272) | 20h |
+| FE Materials Business Intelligence Analyst | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/39196272) | 21h |
 
 #### ⚡ **ABB** (1 position)
 
@@ -161,8 +161,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 20% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 7 | 47% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 2 | 13% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 8 | 53% | 1-2 years of experience. |
 | 🔴 Manager | 5 | 33% | 2+ years of experience. |
 
 ### 🌍 Top Locations
