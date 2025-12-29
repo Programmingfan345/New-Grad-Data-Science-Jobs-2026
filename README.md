@@ -276,16 +276,16 @@ Either still hiring or useful for research.
 | Research Data Scientist, Ads Metrics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128004143737381574-research-data-scientist-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1w |
 | Research Scientist, XR, Hand Tracking | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140717560466154182-research-scientist-xr-hand-tracking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 1w |
 | Research Scientist, Google Cloud AI | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113920872959353542-research-scientist-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 2w |
-| Research Data Scientist, Search Ads | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127104743225860806-research-data-scientist-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Data Research Scientist, Trust and Safety | Washington D.C., DC | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119604394592215750-data-research-scientist-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
+| Research Data Scientist, Search Ads | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127104743225860806-research-data-scientist-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 
 #### 🍎 **Apple** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636490-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 2w |
-| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 2w |
+| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2w |
 
 ### 💻 **Enterprise Software** (1 position)
 
