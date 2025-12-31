@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** December 31, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 37 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 38 (older than 1 week)
 
 ---
 
@@ -112,12 +112,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Secure AI/ML Delivery | Offutt AFB, NE | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ209510-1?q=data+science) | 1d |
 | Data Analyst | Fort Bragg, NC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Bragg/Data-Analyst_IEX20252797-1?q=data+science) | 3d |
+| Data Engineer SME | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Data-Engineer-SME_IEX20252793-1?q=data+science) | 3d |
+| Data Scientist SME | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Data-Scientist-SME_IEX20252788-1?q=data+science) | 3d |
 | Data Scientist – Poly Clearance Required! | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Scientist---Poly-Clearance-Required-_PRX25914-1?q=data+science) | 3d |
 | AI Engineer - Telework Oppty! | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/AI-Engineer---Telework-Oppty-_PRX25938-1?q=data+science) | 3d |
-| Secure AI/ML Delivery | Offutt AFB, NE | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ209510-1?q=data+science) | 1d |
-| Data Scientist SME | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Data-Scientist-SME_IEX20252788-1?q=data+science) | 3d |
-| Data Engineer SME | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Data-Engineer-SME_IEX20252793-1?q=data+science) | 3d |
 | Research Scientist (Clinical Research, Traumatic Brain Injury) | Fort Carson, CO | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Fort-Carson/Research-Scientist--Clinical-Research--Traumatic-Brain-Injury-_RQ211166-1?q=data+science) | 5d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
@@ -167,8 +167,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 13% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 5 | 31% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 19% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 4 | 25% | 1-2 years of experience. |
 | 🔴 Manager | 9 | 56% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -179,10 +179,10 @@ List of top locations and number of positions.
 - **Arlington, VA**: 2 positions
 - **Austin, TX**: 1 positions
 - **Phoenix, AZ**: 1 positions
+- **Offutt AFB, NE**: 1 positions
 - **Fort Bragg, NC**: 1 positions
-- **Chantilly, VA**: 1 positions
-- **Annapolis Junction, MD**: 1 positions
 - **Boise, ID**: 1 positions
+- **Sunnyvale, CA**: 1 positions
 
 ---
 
@@ -249,13 +249,13 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 37 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 38 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 37 positions
+📁 **Total Jobs:** 38 positions
 
 🏢 **Companies:** 8 companies
 
@@ -294,8 +294,8 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636490-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 2w |
-| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 2w |
+| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2w |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -305,14 +305,15 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Entry level AI/ML Engineer: SVL | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79649&source=WEB_Search_NA) | 3w |
 
-### 🚀 **Consulting & Services** (16 positions)
+### 🚀 **Consulting & Services** (17 positions)
 
-#### 🛡️ **BAE Systems** (10 positions)
+#### 🛡️ **BAE Systems** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0231211?q=data+science) | 1w |
 | AI Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Data-Scientist_R0231049-1?q=data+science) | 1w |
+| Data Analyst | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0231044?q=data+science) | 1w |
 | Data Engineer | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225955?q=data+science) | 2w |
 | Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0230517?q=data+science) | 2w |
 | Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0230751?q=data+science) | 2w |
