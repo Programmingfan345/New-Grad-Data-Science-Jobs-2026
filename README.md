@@ -67,7 +67,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - 🔥 **Current Positions:** 17 hot data-focused jobs
 - 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
-- 📅 **Last Updated:** December 31, 2025
+- 📅 **Last Updated:** January 1, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Developer Jobs:** 35 (older than 1 week)
 
@@ -82,7 +82,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist, Region Flexibility | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3150155/data-scientist-region-flexibility) | 1d |
+| Data Scientist, Region Flexibility | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3150155/data-scientist-region-flexibility) | 2d |
 
 #### 🟢 **Google** (4 positions)
 
@@ -168,8 +168,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 12% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 6 | 35% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 18% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 5 | 29% | 1-2 years of experience. |
 | 🔴 Manager | 9 | 53% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -180,10 +180,10 @@ List of top locations and number of positions.
 - **Arlington, VA**: 2 positions
 - **Austin, TX**: 1 positions
 - **Phoenix, AZ**: 1 positions
-- **New York, NY**: 1 positions
-- **Sunnyvale, CA**: 1 positions
-- **Washington, DC**: 1 positions
 - **Offutt AFB, NE**: 1 positions
+- **New York, NY**: 1 positions
+- **Washington, DC**: 1 positions
+- **Sunnyvale, CA**: 1 positions
 
 ---
 
@@ -267,13 +267,13 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Applied Scientist, AWS Agentic AI | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 2w |
-| Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141339/data-engineer) | 2w |
 | Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3143046/research-scientist-artificial-general-intelligence-data-services) | 2w |
 | Applied Scientist, Workplace Health & Safety | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144886/applied-scientist-workplace-health-safety) | 2w |
 | Data Scientist II, PXT Central Science | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 3w |
 | Applied Scientist II, Amazon Connect | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 3w |
+| Applied Scientist, AWS Agentic AI | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139216/applied-scientist-aws-neuron-science-team) | 3w |
+| Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141339/data-engineer) | 3w |
 
 #### 🟢 **Google** (9 positions)
 
@@ -294,7 +294,7 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636490-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 2w |
-| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 2w |
+| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2w |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -347,6 +347,6 @@ Either still hiring or useful for research.
 
 ---
 
-**Last Updated:** December 31, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** January 1, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
