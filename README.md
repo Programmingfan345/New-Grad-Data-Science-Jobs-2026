@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** January 5, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 26 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 25 (older than 1 week)
 
 ---
 
@@ -124,8 +124,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Scientist Physician (Traumatic Brain Injury Exp required) | Silver Spring, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician---Traumatic-Brain-Injury-Exp-required-_RQ212039-1?q=data+science) | 1d |
 | Data Analyst | Jacksonville, NC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Jacksonville/Data-Analyst_RQ212094-1?q=data+science) | 2d |
-| Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Data-Scientist_RQ212085-1?q=data+science) | 2d |
 | Data Analyst | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Data-Analyst_RQ211985-1?q=data+science) | 3d |
+| Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Data-Scientist_RQ212085-1?q=data+science) | 2d |
 | Data Analyst | Fort Bragg, NC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Bragg/Data-Analyst_IEX20252797-1?q=data+science) | 3d |
 | Data Scientist SME | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Data-Scientist-SME_IEX20252788-1?q=data+science) | 3d |
 | Data Engineer SME | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Data-Engineer-SME_IEX20252793-1?q=data+science) | 3d |
@@ -191,9 +191,9 @@ List of top locations and number of positions.
 - **Arlington, VA**: 2 positions
 - **Austin, TX**: 1 positions
 - **Phoenix, AZ**: 1 positions
-- **New York, NY**: 1 positions
-- **Washington, DC**: 1 positions
 - **Silver Spring, MD**: 1 positions
+- **Sunnyvale, CA**: 1 positions
+- **New York, NY**: 1 positions
 
 ---
 
@@ -260,29 +260,28 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 26 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 25 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 26 positions
+📁 **Total Jobs:** 25 positions
 
 🏢 **Companies:** 8 companies
 
 
-### 🏢 **FAANG+** (16 positions)
+### 🏢 **FAANG+** (15 positions)
 
-#### 📦 **Amazon** (7 positions)
+#### 📦 **Amazon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3146697/research-scientist-artificial-general-intelligence-data-services) | 2w |
+| Applied Scientist, Workplace Health & Safety | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144886/applied-scientist-workplace-health-safety) | 2w |
 | Applied Scientist II, Amazon Connect | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 3w |
 | Data Scientist II, PXT Central Science | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 3w |
 | Applied Scientist, AWS Agentic AI | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 3w |
 | Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141339/data-engineer) | 3w |
-| Data Engineer, CompanionProduct&Servi(ComPAS) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139912/data-engineer-companionproduct-servi-compas) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139216/applied-scientist-aws-neuron-science-team) | 4w |
 
 #### 🟢 **Google** (7 positions)
@@ -301,8 +300,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 | AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 3w |
+| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 
 ### 🚀 **Consulting & Services** (9 positions)
 
