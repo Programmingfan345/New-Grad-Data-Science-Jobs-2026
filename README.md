@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** January 7, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 23 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 24 (older than 1 week)
 
 ---
 
@@ -184,9 +184,9 @@ List of top locations and number of positions.
 - **Austin, TX**: 1 positions
 - **Phoenix, AZ**: 1 positions
 - **New York, NY**: 1 positions
+- **Washington, DC**: 1 positions
 - **Silver Spring, MD**: 1 positions
-- **Jacksonville, NC**: 1 positions
-- **Sunnyvale, CA**: 1 positions
+- **Springfield, VA**: 1 positions
 
 ---
 
@@ -253,24 +253,25 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 23 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 24 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 23 positions
+📁 **Total Jobs:** 24 positions
 
 🏢 **Companies:** 7 companies
 
 
-### 🏢 **FAANG+** (13 positions)
+### 🏢 **FAANG+** (14 positions)
 
-#### 📦 **Amazon** (6 positions)
+#### 📦 **Amazon** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist, Region Flexibility | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3150155/data-scientist-region-flexibility) | 1w |
+| Data Engineer II, Ring/Blink Customer Service Engineering Services | Hawthorne, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3149944/data-engineer-ii-ring-blink-customer-service-engineering-services) | 1w |
 | Applied Scientist, AWS Agentic AI | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 3w |
 | Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141339/data-engineer) | 3w |
 | Applied Scientist, Workplace Health & Safety | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144886/applied-scientist-workplace-health-safety) | 3w |
@@ -291,8 +292,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 | AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 3w |
+| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 
 ### 🚀 **Consulting & Services** (9 positions)
 
