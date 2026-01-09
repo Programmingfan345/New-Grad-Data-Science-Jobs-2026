@@ -101,8 +101,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Machine Learning - Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 1d |
 | Machine Learning - Data Scientist | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 1d |
+| Machine Learning - Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 1d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -181,8 +181,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 12 | 52% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 11 | 48% | 1-2 years of experience. |
 | 🔴 Manager | 8 | 35% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -299,8 +299,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 4w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 4w |
+| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 4w |
 
 ### 🚀 **Consulting & Services** (14 positions)
 
