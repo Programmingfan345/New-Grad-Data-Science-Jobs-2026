@@ -1,10 +1,4 @@
 {
-  "google-research-scientist,-machine-learning,-geospatial-ai-mountain-view": {
-    "assigned_date": "2025-11-10T10:44:51.635Z",
-    "job_title": "Research Scientist, Machine Learning, Geospatial AI",
-    "company": "Google",
-    "first_seen": "2025-11-10T10:44:51.635Z"
-  },
   "abb-r&d-applied-scientist-san-jose": {
     "assigned_date": "2025-11-10T14:43:23.218Z",
     "job_title": "R&D Applied Scientist",
@@ -256,5 +250,11 @@
     "job_title": "Business Data Scientist, Statistics, Platform Analytics, Google Cloud",
     "company": "Google",
     "first_seen": "2026-01-07T13:32:08.966Z"
+  },
+  "google-research-scientist,-security-and-privacy,-google-research-new-york": {
+    "assigned_date": "2026-01-09T14:23:23.926Z",
+    "job_title": "Research Scientist, Security and Privacy, Google Research",
+    "company": "Google",
+    "first_seen": "2026-01-09T14:23:23.926Z"
   }
 }
