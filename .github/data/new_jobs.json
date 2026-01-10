@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Applied Scientist LMTS",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "Next-page description extraction failed",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr322193/applied-scientist-lmts/",
+    "id": "salesforce-applied-scientist-lmts-san-francisco"
+  }
+]
