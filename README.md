@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 9 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** January 10, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 8 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 9 (older than 1 week)
 
 ---
 
@@ -115,7 +115,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist - Salesforce AI Research | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313254/research-scientist-salesforce-ai-research/) | 10h |
+| Research Scientist - Salesforce AI Research | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313254/research-scientist-salesforce-ai-research/) | 11h |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -256,18 +256,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 8 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 9 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 8 positions
+📁 **Total Jobs:** 9 positions
 
 🏢 **Companies:** 9 companies
 
 
-### 🏢 **FAANG+** (8 positions)
+### 🏢 **FAANG+** (9 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -282,15 +282,16 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Research Data Scientist, Network and Machines Optimization, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80409324060320454-research-data-scientist-network-and-machines-optimization-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Product Data Scientist, Android XR | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119249400512815814-product-data-scientist-android-xr?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
+| Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119921820592677574-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Research Data Scientist, Ads Metrics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128004143737381574-research-data-scientist-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Research Scientist, Google Cloud AI | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113920872959353542-research-scientist-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 3w |
-| Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119921820592677574-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 4w |
+| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 4w |
 
 
 
