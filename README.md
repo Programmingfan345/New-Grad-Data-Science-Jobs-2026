@@ -100,7 +100,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Machine Learning - Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 2d |
+| Machine Learning - Data Scientist | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 2d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -194,22 +194,22 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 10 | 42% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 5 | 21% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 9 | 38% | 1-2 years of experience. |
 | 🔴 Manager | 10 | 42% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
-- **Sunnyvale, CA**: 3 positions
 - **New York, NY**: 2 positions
+- **Boulder, CO**: 2 positions
 - **Mountain View, CA**: 2 positions
+- **Sunnyvale, CA**: 2 positions
 - **McLean, VA**: 2 positions
 - **Palo Alto, CA**: 1 positions
 - **OH**: 1 positions
 - **San Diego, CA**: 1 positions
-- **Atlanta, GA**: 1 positions
 
 ---
 
@@ -310,8 +310,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 4w |
 | AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 4w |
+| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 4w |
 
 ### 🚀 **Consulting & Services** (16 positions)
 
