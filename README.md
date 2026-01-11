@@ -100,7 +100,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Machine Learning - Data Scientist | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 3d |
+| Machine Learning - Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 3d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -202,14 +202,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 List of top locations and number of positions.
 
+- **Sunnyvale, CA**: 3 positions
 - **New York, NY**: 2 positions
-- **Boulder, CO**: 2 positions
 - **Mountain View, CA**: 2 positions
-- **Sunnyvale, CA**: 2 positions
 - **McLean, VA**: 2 positions
 - **OH**: 1 positions
 - **Palo Alto, CA**: 1 positions
 - **Alexandria, VA**: 1 positions
+- **Austin, TX**: 1 positions
 
 ---
 
