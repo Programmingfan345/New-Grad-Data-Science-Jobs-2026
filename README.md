@@ -103,7 +103,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Machine Learning - Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 4d |
+| Machine Learning - Data Scientist | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 4d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -152,7 +152,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer/AWS | OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698199/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 3d |
+| Data Engineer/AWS | Columbus, OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698199/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 1h |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -187,8 +187,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 13 | 54% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 12 | 50% | 1-2 years of experience. |
 | 🔴 Manager | 8 | 33% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -197,12 +197,12 @@ List of top locations and number of positions.
 
 - **Mountain View, CA**: 3 positions
 - **New York, NY**: 3 positions
-- **Sunnyvale, CA**: 3 positions
+- **Boulder, CO**: 2 positions
+- **Sunnyvale, CA**: 2 positions
+- **Columbus, OH**: 1 positions
 - **Dallas, TX**: 1 positions
-- **OH**: 1 positions
 - **Palo Alto, CA**: 1 positions
 - **San Diego, CA**: 1 positions
-- **Atlanta, GA**: 1 positions
 
 ---
 
