@@ -1,28 +1,4 @@
 {
-  "amd-ai/ml-compiler-development-engineer-san-jose": {
-    "assigned_date": "2025-11-14T02:00:37.985Z",
-    "job_title": "AI/ML Compiler Development Engineer",
-    "company": "AMD",
-    "first_seen": "2025-11-14T02:00:37.985Z"
-  },
-  "google-research-scientist,-google-research-seattle": {
-    "assigned_date": "2025-11-14T07:11:29.793Z",
-    "job_title": "Research Scientist, Google Research",
-    "company": "Google",
-    "first_seen": "2025-11-14T07:11:29.793Z"
-  },
-  "google-research-data-scientist,-central-storage,-resource-planning,-cloud-sunnyvale": {
-    "assigned_date": "2025-11-14T09:09:34.807Z",
-    "job_title": "Research Data Scientist, Central Storage, Resource Planning, Cloud",
-    "company": "Google",
-    "first_seen": "2025-11-14T09:09:34.807Z"
-  },
-  "google-data-scientist,-research,-search-ads-new-york": {
-    "assigned_date": "2025-11-14T12:53:11.372Z",
-    "job_title": "Data Scientist, Research, Search Ads",
-    "company": "Google",
-    "first_seen": "2025-11-14T12:53:11.372Z"
-  },
   "google-data-scientist,-product,-connected-tv-san-bruno": {
     "assigned_date": "2025-11-17T08:46:55.389Z",
     "job_title": "Data Scientist, Product, Connected TV",
@@ -280,5 +256,11 @@
     "job_title": "Data Engineer/AWS",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-12T21:26:00.315Z"
+  },
+  "google-research-scientist,-google-research-kirkland": {
+    "assigned_date": "2026-01-13T21:28:02.283Z",
+    "job_title": "Research Scientist, Google Research",
+    "company": "Google",
+    "first_seen": "2026-01-13T21:28:02.283Z"
   }
 }
