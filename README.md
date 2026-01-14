@@ -104,8 +104,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR) | 2d |
 | Machine Learning - Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 6d |
-| Machine Learning - Data Scientist | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 6d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -197,8 +197,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 4 | 15% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 18 | 67% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 5 | 19% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 17 | 63% | 1-2 years of experience. |
 | 🔴 Manager | 5 | 19% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -210,9 +210,9 @@ List of top locations and number of positions.
 - **Seattle, WA**: 2 positions
 - **Arlington, VA**: 2 positions
 - **New York, NY**: 2 positions
-- **Boulder, CO**: 2 positions
 - **Kirkland, WA**: 1 positions
 - **Columbus, OH**: 1 positions
+- **Culver City, CA**: 1 positions
 
 ---
 
