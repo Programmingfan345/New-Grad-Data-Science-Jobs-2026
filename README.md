@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-22-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-23-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-10-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 8+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 22+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 8+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 23+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,11 +65,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 22 hot data-focused jobs
+- 🔥 **Current Positions:** 23 hot data-focused jobs
 - 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** January 16, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 29 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 28 (older than 1 week)
 
 ---
 
@@ -100,8 +100,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Machine Learning Research Scientist - Personalization Science, Apple Fitness+ | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200641734-0836/machine-learning-research-scientist-personalization-science-apple-fitness?team=MLAI) | 19h |
 | AppleCare Finance Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200641667-0157/applecare-finance-data-engineer?team=CORSV) | 2d |
-| Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR) | 4d |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -111,7 +111,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Entry level AI/ML Engineer: SVL | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79649&source=WEB_Search_NA) | 1mo |
 
-### 🚀 **Consulting & Services** (9 positions)
+### 🚀 **Consulting & Services** (10 positions)
 
 #### 🛡️ **BAE Systems** (6 positions)
 
@@ -124,10 +124,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0227412-1?q=data+science) | 3d |
 | Data Scientist | Pensacola, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/Data-Scientist_R0232045?q=data+science) | 3d |
 
-#### ⚙️ **General Dynamics** (3 positions)
+#### ⚙️ **General Dynamics** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Scientific Data Analyst | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Raleigh/Scientific-Data-Analyst_RQ208127-1?q=data+science) | 1d |
 | Data Analytics & Visualization Engineer - TS/SCI with Polygraph | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Analytics---Visualization-Engineer---TS-SCI-with-Polygraph_RQ212982-2?q=data+science) | 1d |
 | Scientist Physician (Traumatic Brain Injury) | Silver Spring, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician--Traumatic-Brain-Injury-_RQ213145-1?q=data+science) | 1d |
 | Data Engineer | Falls Church, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Data-Engineer-Senior_RQ212609-1?q=data+science) | 2d |
@@ -174,27 +175,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 2 | 9% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 13 | 59% | 1-2 years of experience. |
-| 🔴 Manager | 7 | 32% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 13 | 57% | 1-2 years of experience. |
+| 🔴 Manager | 8 | 35% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Seattle, WA**: 2 positions
+- **Cupertino, CA**: 1 positions
 - **Twenty-Nine Palms, CA**: 1 positions
 - **Camp Lejeune, NC**: 1 positions
 - **Camp Pendleton, CA**: 1 positions
+- **Raleigh, NC**: 1 positions
 - **Chantilly, VA**: 1 positions
 - **Silver Spring, MD**: 1 positions
-- **Austin, TX**: 1 positions
-- **Falls Church, VA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 22+ verified roles for data analysts and scientists from 8 elite tech companies.
+✅ **100% Real Jobs:** 23+ verified roles for data analysts and scientists from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -255,18 +256,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 29 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 28 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 29 positions
+📁 **Total Jobs:** 28 positions
 
 🏢 **Companies:** 8 companies
 
 
-### 🏢 **FAANG+** (10 positions)
+### 🏢 **FAANG+** (9 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -286,12 +287,6 @@ Either still hiring or useful for research.
 | Research Data Scientist, Network and Machines Optimization, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80409324060320454-research-data-scientist-network-and-machines-optimization-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119921820592677574-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Research Data Scientist, Ads Metrics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128004143737381574-research-data-scientist-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
-
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Machine Learning - Data Scientist | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 1w |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -345,7 +340,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 22 current opportunities from 8 elite companies.**
+**🎯 23 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
