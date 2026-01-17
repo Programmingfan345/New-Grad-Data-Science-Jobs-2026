@@ -4,7 +4,7 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Data Science Jobs" width="200">
 
 <h3>💼 New Grad Data Science Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 8</em></p>
+<p><em>Real-time job opportunities from 7</em></p>
 
 <br>
 
@@ -186,8 +186,8 @@ List of top locations and number of positions.
 - **Camp Pendleton, CA**: 1 positions
 - **Chantilly, VA**: 1 positions
 - **Silver Spring, MD**: 1 positions
-- **Austin, TX**: 1 positions
 - **Falls Church, VA**: 1 positions
+- **Columbus, OH**: 1 positions
 
 ---
 
@@ -262,7 +262,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** 27 positions
 
-🏢 **Companies:** 8 companies
+🏢 **Companies:** 7 companies
 
 
 ### 🏢 **FAANG+** (9 positions)
