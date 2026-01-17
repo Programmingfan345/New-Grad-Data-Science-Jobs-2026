@@ -101,7 +101,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Machine Learning Research Scientist - Personalization Science, Apple Fitness+ | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200641734-0836/machine-learning-research-scientist-personalization-science-apple-fitness?team=MLAI) | 1d |
 | AppleCare Finance Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200641667-0157/applecare-finance-data-engineer?team=CORSV) | 3d |
-| Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR) | 5d |
+| Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632717-3337/data-scientist?team=SFTWR) | 5d |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -181,8 +181,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 List of top locations and number of positions.
 
-- **Cupertino, CA**: 2 positions
-- **Seattle, WA**: 2 positions
+- **Seattle, WA**: 3 positions
+- **Cupertino, CA**: 1 positions
 - **Twenty-Nine Palms, CA**: 1 positions
 - **Camp Lejeune, NC**: 1 positions
 - **Camp Pendleton, CA**: 1 positions
