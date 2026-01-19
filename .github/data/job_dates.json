@@ -1,28 +1,4 @@
 {
-  "google-data-scientist,-product,-connected-tv-san-bruno": {
-    "assigned_date": "2025-11-17T08:46:55.389Z",
-    "job_title": "Data Scientist, Product, Connected TV",
-    "company": "Google",
-    "first_seen": "2025-11-17T08:46:55.389Z"
-  },
-  "google-data-scientist,-product,-youtube-growth-san-bruno": {
-    "assigned_date": "2025-11-17T08:46:55.389Z",
-    "job_title": "Data Scientist, Product, YouTube Growth",
-    "company": "Google",
-    "first_seen": "2025-11-17T08:46:55.389Z"
-  },
-  "google-product-data-scientist,-geo,-developer-and-sustainability-mountain-view": {
-    "assigned_date": "2025-11-18T13:11:53.133Z",
-    "job_title": "Product Data Scientist, Geo, Developer and Sustainability",
-    "company": "Google",
-    "first_seen": "2025-11-18T13:11:53.133Z"
-  },
-  "google-data-engineer,-go-to-market-new-york": {
-    "assigned_date": "2025-11-19T14:43:06.610Z",
-    "job_title": "Data Engineer, Go-To-Market",
-    "company": "Google",
-    "first_seen": "2025-11-19T14:43:06.610Z"
-  },
   "google-research-data-scientist,-search-quality-mountain-view": {
     "assigned_date": "2025-11-21T04:43:39.290Z",
     "job_title": "Research Data Scientist, Search Quality",
@@ -262,5 +238,11 @@
     "job_title": "Research Scientist, Google Research",
     "company": "Google",
     "first_seen": "2026-01-13T21:28:02.283Z"
+  },
+  "google-business-data-scientist,-consumer-support,-gup-analytics-boulder": {
+    "assigned_date": "2026-01-19T07:50:45.644Z",
+    "job_title": "Business Data Scientist, Consumer Support, gUP Analytics",
+    "company": "Google",
+    "first_seen": "2026-01-19T07:50:45.644Z"
   }
 }
