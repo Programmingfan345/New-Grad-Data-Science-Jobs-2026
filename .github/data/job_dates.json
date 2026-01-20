@@ -1,10 +1,4 @@
 {
-  "google-research-data-scientist,-search-quality-mountain-view": {
-    "assigned_date": "2025-11-21T04:43:39.290Z",
-    "job_title": "Research Data Scientist, Search Quality",
-    "company": "Google",
-    "first_seen": "2025-11-21T04:43:39.290Z"
-  },
   "google-research-scientist,-coherence-fabrication-goleta": {
     "assigned_date": "2025-11-24T13:50:25.514Z",
     "job_title": "Research Scientist, Coherence Fabrication",
@@ -256,5 +250,11 @@
     "job_title": "Research Data Scientist, Age Assurance",
     "company": "Google",
     "first_seen": "2026-01-19T12:39:14.890Z"
+  },
+  "google-product-data-scientist,-android-and-business-communication-san-jose": {
+    "assigned_date": "2026-01-20T15:05:25.375Z",
+    "job_title": "Product Data Scientist, Android and Business Communication",
+    "company": "Google",
+    "first_seen": "2026-01-20T15:05:25.375Z"
   }
 }
