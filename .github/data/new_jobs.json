@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Amazon",
-    "job_title": "Data Engineer, AWS Health & Safety",
+    "job_title": "Applied Scientist II - Gen AI & LLM, PXT",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "16h",
-    "job_description": "data science job for the role Data Engineer, AWS Health & Safety",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3163441/data-engineer-aws-health-safety",
-    "id": "amazon-data-engineer-aws-health-safety-seattle"
+    "job_posted_at": "1d",
+    "job_description": "data science job for the role Applied Scientist II - Gen AI & LLM, PXT",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3162762/applied-scientist-ii-gen-ai-llm-pxt",
+    "id": "amazon-applied-scientist-ii-gen-ai-llm-pxt-seattle"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Data Scientist",
+    "job_city": "Falls Church",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• Data Science ExpertlocationsSpringfield, VAposted onPosted 15 Days AgoR0231662.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Falls-Church-VA/Data-Scientist_R0232441?q=data+science",
+    "id": "bae-systems-data-scientist-falls-church"
   }
 ]
