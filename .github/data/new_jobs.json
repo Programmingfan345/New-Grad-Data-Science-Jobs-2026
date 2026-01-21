@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer, AWS Health & Safety",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "16h",
+    "job_description": "data science job for the role Data Engineer, AWS Health & Safety",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3163441/data-engineer-aws-health-safety",
+    "id": "amazon-data-engineer-aws-health-safety-seattle"
+  }
+]
