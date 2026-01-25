@@ -82,8 +82,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Business Intelligence Engineer, WHS Data | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3166119/business-intelligence-engineer-whs-data) | 7h |
 | Applied Scientist (Contract), Artificial General Intelligence | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3165531/applied-scientist-contract-artificial-general-intelligence) | 2d |
+| Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3165506/research-scientist-artificial-general-intelligence-data-services) | 2d |
 | Data Scientist, Prime Air | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3163928/data-scientist-prime-air) | 4d |
 | Applied Scientist II - Gen AI & LLM, PXT | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3162762/applied-scientist-ii-gen-ai-llm-pxt) | 5d |
 
@@ -94,7 +94,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist, Product, AI Data - Sunnyvale | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78531080100946630-data-scientist-product-ai-data-sunnyvale?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Research Scientist, Coherence Fabrication | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84803211969340102-research-scientist-coherence-fabrication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 1d |
 | Product Data Scientist, Android and Business Communication | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99536712878695110-product-data-scientist-android-and-business-communication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
-| Business Data Scientist, Consumer Support, gUP Analytics | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78411418017112774-business-data-scientist-consumer-support-gup-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
+| Business Data Scientist, Consumer Support, gUP Analytics | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78411418017112774-business-data-scientist-consumer-support-gup-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 6d |
 | Research Data Scientist, Ads Metrics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128004143737381574-research-data-scientist-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 
 #### 🍎 **Apple** (1 position)
@@ -171,7 +171,6 @@ No companies available
 
 List of top locations and number of positions.
 
-- **Bellevue, WA**: 2 positions
 - **Falls Church, VA**: 2 positions
 - **San Jose, CA**: 2 positions
 - **Seattle, WA**: 2 positions
@@ -179,6 +178,7 @@ List of top locations and number of positions.
 - **Goleta, CA**: 1 positions
 - **Virginia Beach, VA**: 1 positions
 - **Santa Clara, CA**: 1 positions
+- **Bellevue, WA**: 1 positions
 
 ---
 
@@ -262,8 +262,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer, Studio Data Operations | Culver City, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3157978/data-engineer-studio-data-operations) | 1w |
 | Applied Scientist , TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3157569/applied-scientist-tsi-science) | 1w |
+| Data Engineer, Studio Data Operations | Culver City, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3157978/data-engineer-studio-data-operations) | 1w |
 | Applied Scientist, Denied Party Screening, AWS Compliance & Security Assurance | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3157154/applied-scientist-denied-party-screening-aws-compliance-security-assurance) | 1w |
 | Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS) | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3155394/software-dev-engineer-ii-measurement-ad-tech-and-data-science-mads) | 2w |
 | Applied Scientist, Generative AI Innovation Center, Model Customization | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3155502/applied-scientist-generative-ai-innovation-center-model-customization) | 2w |
