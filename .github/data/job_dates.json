@@ -1,16 +1,4 @@
 {
-  "google-data-scientist,-search-platforms-cambridge": {
-    "assigned_date": "2025-11-25T07:12:21.161Z",
-    "job_title": "Data Scientist, Search Platforms",
-    "company": "Google",
-    "first_seen": "2025-11-25T07:12:21.161Z"
-  },
-  "google-research-scientist,-google-research-new-york": {
-    "assigned_date": "2025-11-26T19:40:34.849Z",
-    "job_title": "Research Scientist, Google Research",
-    "company": "Google",
-    "first_seen": "2025-11-26T19:40:34.849Z"
-  },
   "google-research-data-scientist,-search-ads-new-york": {
     "assigned_date": "2025-12-01T23:40:27.783Z",
     "job_title": "Research Data Scientist, Search Ads",
@@ -262,5 +250,11 @@
     "job_title": "Research Scientist, Coherence Fabrication",
     "company": "Google",
     "first_seen": "2026-01-23T15:24:49.508Z"
+  },
+  "google-data-center-analytics-engineer-austin": {
+    "assigned_date": "2026-01-26T22:24:58.057Z",
+    "job_title": "Data Center Analytics Engineer",
+    "company": "Google",
+    "first_seen": "2026-01-26T22:24:58.057Z"
   }
 }
