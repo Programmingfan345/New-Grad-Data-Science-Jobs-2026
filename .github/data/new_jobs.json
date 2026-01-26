@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Scientist, Retail Decision Automation",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "19h",
+    "job_description": "• Minimum QualificationsMasters in Statistics, Mathematics, Data Science, Machine Learning, Physics, Engineering, Computer Science or equivalentProficiency in data querying using SQL, Spark, or equivalent technologiesProficiency in scripting languages for data processing and analysis (ex: Python, R, or Scala)Excellent communication and multi-functional collaboration skills, ability to convey complex concepts to diverse audiencesMin 3 years experience working as a Data Scientist or equivalent.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200643011-3956/data-scientist-retail-decision-automation?team=CORSV",
+    "id": "apple-data-scientist-retail-decision-automation-sunnyvale"
+  }
+]
