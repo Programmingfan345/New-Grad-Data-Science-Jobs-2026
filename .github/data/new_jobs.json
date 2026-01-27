@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Engineer",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "18h",
+    "job_description": "• Minimum QualificationsDemonstrated expertise in designing and implementing relational and medallion data architecturesDemonstrated expertise in the design and implementation of production data pipelines at scaleDemonstrated proficiency with JVM languages (Scala or Java preferred), Golang, or Swift.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200643840-3337/data-engineer?team=CORSV",
+    "id": "apple-data-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "18h",
+    "job_description": "• Minimum QualificationsDemonstrated expertise in designing and implementing relational and medallion data architecturesDemonstrated expertise in the design and implementation of production data pipelines at scaleDemonstrated proficiency with JVM languages (Scala or Java preferred), Golang, or Swift.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200643840-3956/data-engineer?team=CORSV",
+    "id": "apple-data-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Engineer",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "18h",
+    "job_description": "Next-page description extraction failed",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200643840-3577/data-engineer?team=CORSV",
+    "id": "apple-data-engineer-san-francisco"
+  }
+]
