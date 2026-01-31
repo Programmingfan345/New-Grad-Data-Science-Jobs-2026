@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Amazon",
-    "job_title": "Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering",
-    "job_city": "Bellevue",
+    "job_title": "Data Scientist, Selling Partner Trust and Store Integrity",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "data science job for the role Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3171109/data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering",
-    "id": "amazon-data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering-bellevue"
+    "job_posted_at": "1d",
+    "job_description": "data science job for the role Data Scientist, Selling Partner Trust and Store Integrity",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3170934/data-scientist-selling-partner-trust-and-store-integrity",
+    "id": "amazon-data-scientist-selling-partner-trust-and-store-integrity-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Machine Learning Engineer, WWPS ProServe Data and Machine Learning",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "4d",
+    "job_description": "data science job for the role Machine Learning Engineer, WWPS ProServe Data and Machine Learning",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3168180/machine-learning-engineer-wwps-proserve-data-and-machine-learning",
+    "id": "amazon-machine-learning-engineer-wwps-proserve-data-and-machine-learning-arlington"
   }
 ]
