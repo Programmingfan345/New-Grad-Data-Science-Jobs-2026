@@ -1,10 +1,4 @@
 {
-  "google-research-data-scientist,-search-ads-new-york": {
-    "assigned_date": "2025-12-01T23:40:27.783Z",
-    "job_title": "Research Data Scientist, Search Ads",
-    "company": "Google",
-    "first_seen": "2025-12-01T23:40:27.783Z"
-  },
   "google-research-data-scientist,-risk-quantification-sunnyvale": {
     "assigned_date": "2025-12-02T13:40:51.072Z",
     "job_title": "Research Data Scientist, Risk Quantification",
@@ -268,5 +262,11 @@
     "job_title": "Research Scientist, Quantum Interconnects",
     "company": "Google",
     "first_seen": "2026-01-30T11:10:06.977Z"
+  },
+  "arm-graduate-data-engineer-san-jose": {
+    "assigned_date": "2026-01-31T07:52:09.143Z",
+    "job_title": "Graduate Data Engineer",
+    "company": "Arm",
+    "first_seen": "2026-01-31T07:52:09.143Z"
   }
 }
