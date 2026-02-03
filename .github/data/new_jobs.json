@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Amazon",
-    "job_title": "Data Scientist",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "16h",
-    "job_description": "data science job for the role Data Scientist",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3172450/data-scientist",
-    "id": "amazon-data-scientist-san-francisco"
+    "employer_name": "AMD",
+    "job_title": "ML/AI Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Strong interpersonal and communication skills and a willingness s to collaborate with different functional teams.\n• (Plus) Experience with web development using Javascript and frameworks such Flask, Angular, ASP.\n• Excellent problem-solving skills with the ability to thrive in a demanding, fast-paced work environment.\n• AMD Partner Hub Authorized Distributors AMD University Program Experience with PyTorch, Tensorflow and Python packages, such as NumPy (Plus) Experience using relational (SQL) and noSQL databases.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• In-depth knowledge of computer programming languages, such as Python, JavaScript, and C++.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72468/login",
+    "id": "amd-ml-ai-engineer-austin"
   }
 ]

@@ -256,5 +256,11 @@
     "job_title": "Entry level AI/ML Engineer: SVL",
     "company": "IBM",
     "first_seen": "2026-02-03T15:40:31.702Z"
+  },
+  "amd-ml/ai-engineer-austin": {
+    "assigned_date": "2026-02-03T17:45:24.545Z",
+    "job_title": "ML/AI Engineer",
+    "company": "AMD",
+    "first_seen": "2026-02-03T17:45:24.545Z"
   }
 }
