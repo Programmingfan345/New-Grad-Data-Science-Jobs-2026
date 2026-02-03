@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Scientist",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "16h",
+    "job_description": "data science job for the role Data Scientist",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3172450/data-scientist",
+    "id": "amazon-data-scientist-san-francisco"
+  }
+]
