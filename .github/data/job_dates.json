@@ -1,22 +1,4 @@
 {
-  "ibm-entry-level-ai/ml-engineer:-svl-san-jose": {
-    "assigned_date": "2025-12-05T00:21:17.484Z",
-    "job_title": "Entry level AI/ML Engineer: SVL",
-    "company": "IBM",
-    "first_seen": "2025-12-05T00:21:17.484Z"
-  },
-  "google-product-data-scientist,-risk-quantification-sunnyvale": {
-    "assigned_date": "2025-12-05T09:30:48.899Z",
-    "job_title": "Product Data Scientist, Risk Quantification",
-    "company": "Google",
-    "first_seen": "2025-12-05T09:30:48.899Z"
-  },
-  "google-research-scientist,-extended-reality,-hand-tracking-san-jose": {
-    "assigned_date": "2025-12-05T09:30:48.899Z",
-    "job_title": "Research Scientist, Extended Reality, Hand Tracking",
-    "company": "Google",
-    "first_seen": "2025-12-05T09:30:48.899Z"
-  },
   "google-data-research-scientist,-trust-and-safety-washington-d.c.": {
     "assigned_date": "2025-12-05T15:11:34.042Z",
     "job_title": "Data Research Scientist, Trust and Safety",
@@ -268,5 +250,11 @@
     "job_title": "Research Scientist, Quantum Interconnects, Quantum AI",
     "company": "Google",
     "first_seen": "2026-02-02T14:42:58.018Z"
+  },
+  "google-product-data-scientist,-engineering-productivity,-applied-ai-mountain-view": {
+    "assigned_date": "2026-02-03T14:45:22.741Z",
+    "job_title": "Product Data Scientist, Engineering Productivity, Applied AI",
+    "company": "Google",
+    "first_seen": "2026-02-03T14:45:22.741Z"
   }
 }
