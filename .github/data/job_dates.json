@@ -1,10 +1,4 @@
 {
-  "google-data-research-scientist,-trust-and-safety-washington-d.c.": {
-    "assigned_date": "2025-12-05T15:11:34.042Z",
-    "job_title": "Data Research Scientist, Trust and Safety",
-    "company": "Google",
-    "first_seen": "2025-12-05T15:11:34.042Z"
-  },
   "10x-genomics-scientist-1,-assay-productization-pleasanton": {
     "assigned_date": "2025-12-05T19:29:53.880Z",
     "job_title": "Scientist 1, Assay Productization",
@@ -256,5 +250,11 @@
     "job_title": "Product Data Scientist, Engineering Productivity, Applied AI",
     "company": "Google",
     "first_seen": "2026-02-03T14:45:22.741Z"
+  },
+  "ibm-entry-level-ai/ml-engineer:-svl-san-jose": {
+    "assigned_date": "2026-02-03T15:40:31.702Z",
+    "job_title": "Entry level AI/ML Engineer: SVL",
+    "company": "IBM",
+    "first_seen": "2026-02-03T15:40:31.702Z"
   }
 }
