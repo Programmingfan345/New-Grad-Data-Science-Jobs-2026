@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-17-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-18-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 17+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 18+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 17 hot data-focused jobs
+- 🔥 **Current Positions:** 18 hot data-focused jobs
 - 🏢 **Top Companies:** 5 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** February 10, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -82,7 +82,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Product Data Scientist, Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79628603964170950-product-data-scientist-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
+| Product Data Scientist, Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79628603964170950-product-data-scientist-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 6d |
 | Data Scientist, Research, PhD, Early Career, 2026 Start | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106428613359739590-data-scientist-research-phd-early-career-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127950988953690822-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116931683420119750-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
@@ -96,12 +96,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Security Data Science Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr326778/security-data-science-engineer/) | 6d |
 
-### 🚀 **Consulting & Services** (10 positions)
+### 🚀 **Consulting & Services** (11 positions)
 
-#### 🛡️ **BAE Systems** (6 positions)
+#### 🛡️ **BAE Systems** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Scientist | Pensacola, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/Data-Scientist_R0232045?q=data+science) | 1d |
 | Data Scientist | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Data-Scientist_R0233691?q=data+science) | 1d |
 | Palantir Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0229016?q=data+science) | 1d |
 | Data Scientist and Pipeline Integrator | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist-and-Pipeline-Integrator_R0233000?q=data+science) | 4d |
@@ -152,8 +153,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 6% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 5 | 29% | 1-2 years of experience. |
-| 🔴 Manager | 11 | 65% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 5 | 28% | 1-2 years of experience. |
+| 🔴 Manager | 12 | 67% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -162,17 +163,17 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 3 positions
 - **MacDill AFB, FL**: 2 positions
 - **Sunnyvale, CA**: 2 positions
+- **Pensacola, FL**: 1 positions
 - **Herndon, VA**: 1 positions
 - **Springfield, VA**: 1 positions
 - **McLean, VA**: 1 positions
 - **Chantilly, VA**: 1 positions
-- **Washington, DC**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 17+ verified roles for data analysts and scientists from 5 elite tech companies.
+✅ **100% Real Jobs:** 18+ verified roles for data analysts and scientists from 5 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -327,9 +328,9 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Analyst | Virginia Beach, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Virginia-Beach/Data-Analyst_RQ213377?q=data+science) | 1w |
-| High Performance Computing (HPC) Computational Scientist | Dayton, OH | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Dayton/High-Performance-Computing--HPC--Computational-Scientist_RQ211201?q=data+science) | 1w |
-| Scientist Physician (Traumatic Brain Injury) | Silver Spring, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician--Traumatic-Brain-Injury-_RQ213145-1?q=data+science) | 1w |
 | Research Scientist (Clinical Research, Traumatic Brain Injury) | Fort Carson, CO | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Fort-Carson/Research-Scientist--Clinical-Research--Traumatic-Brain-Injury-_RQ211166-1?q=data+science) | 1w |
+| Scientist Physician (Traumatic Brain Injury) | Silver Spring, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician--Traumatic-Brain-Injury-_RQ213145-1?q=data+science) | 1w |
+| High Performance Computing (HPC) Computational Scientist | Dayton, OH | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Dayton/High-Performance-Computing--HPC--Computational-Scientist_RQ211201?q=data+science) | 1w |
 | Data Analyst | Jacksonville, NC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Jacksonville/Data-Analyst_RQ212094-1?q=data+science) | 2w |
 | Data Analytics & Visualization Engineer - TS/SCI with Polygraph | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Analytics---Visualization-Engineer---TS-SCI-with-Polygraph_RQ212982-2?q=data+science) | 2w |
 
@@ -340,7 +341,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 17 current opportunities from 5 elite companies.**
+**🎯 18 current opportunities from 5 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
