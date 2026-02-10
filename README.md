@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-20-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-18-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-6-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 20+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 18+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 20 hot data-focused jobs
+- 🔥 **Current Positions:** 18 hot data-focused jobs
 - 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** February 10, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -111,7 +111,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Entry level AI/ML Engineer: SVL | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=79649&source=WEB_Search_NA) | 6d |
 
-### 🚀 **Consulting & Services** (10 positions)
+### 🚀 **Consulting & Services** (8 positions)
 
 #### 🛡️ **BAE Systems** (5 positions)
 
@@ -123,13 +123,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 5d |
 | Data Scientist, Mid | Falls Church, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Falls-Church-VA/Data-Scientist--Mid_R0232440?q=data+science) | 5d |
 
-#### ⚙️ **General Dynamics** (5 positions)
+#### ⚙️ **General Dynamics** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist – Poly Clearance Required! | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Data-Scientist---Poly-Clearance-Required-_PRX25914-1?q=data+science) | 1d |
-| Data Engineer - TS/SCI with Polygraph | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Engineer---TS-SCI-with-Polygraph_RQ211901?q=data+science) | 1d |
-| AI Engineer | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/AI-Engineer_RQ214640-1?q=data+science) | 1d |
 | ServiceNow CMDB Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/CMDB-Data-Scientist_RQ212366-1?q=data+science) | 4d |
 | Scientist Physician (Traumatic Brain Injury) | Silver Spring, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician--Traumatic-Brain-Injury-_RQ213145-1?q=data+science) | 6d |
 
@@ -166,28 +164,28 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 10% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 7 | 35% | 1-2 years of experience. |
-| 🔴 Manager | 11 | 55% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 2 | 11% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 7 | 39% | 1-2 years of experience. |
+| 🔴 Manager | 9 | 50% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 4 positions
-- **Washington, DC**: 2 positions
 - **MacDill AFB, FL**: 2 positions
 - **Sunnyvale, CA**: 2 positions
+- **Washington, DC**: 1 positions
 - **McLean, VA**: 1 positions
-- **Chantilly, VA**: 1 positions
 - **Arlington, VA**: 1 positions
 - **San Francisco, CA**: 1 positions
+- **Honolulu, HI**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 20+ verified roles for data analysts and scientists from 7 elite tech companies.
+✅ **100% Real Jobs:** 18+ verified roles for data analysts and scientists from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -288,8 +286,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-0157/applecare-data-scientist?team=OPMFG) | 1w |
 | AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-3956/applecare-data-scientist?team=OPMFG) | 1w |
+| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-0157/applecare-data-scientist?team=OPMFG) | 1w |
 | Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3956/data-engineer?team=CORSV) | 2w |
 | Data Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3337/data-engineer?team=CORSV) | 2w |
 | Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3577/data-engineer?team=CORSV) | 2w |
@@ -337,9 +335,9 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Analyst | Jacksonville, NC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Jacksonville/Data-Analyst_RQ212094-1?q=data+science) | 1w |
 | Data Analyst | Virginia Beach, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Virginia-Beach/Data-Analyst_RQ213377?q=data+science) | 1w |
+| Data Analytics & Visualization Engineer - TS/SCI with Polygraph | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Analytics---Visualization-Engineer---TS-SCI-with-Polygraph_RQ212982-2?q=data+science) | 1w |
 | Research Scientist (Clinical Research, Traumatic Brain Injury) | Fort Carson, CO | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Fort-Carson/Research-Scientist--Clinical-Research--Traumatic-Brain-Injury-_RQ211166-1?q=data+science) | 1w |
 | High Performance Computing (HPC) Computational Scientist | Dayton, OH | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Dayton/High-Performance-Computing--HPC--Computational-Scientist_RQ211201?q=data+science) | 1w |
-| Data Analytics & Visualization Engineer - TS/SCI with Polygraph | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Analytics---Visualization-Engineer---TS-SCI-with-Polygraph_RQ212982-2?q=data+science) | 1w |
 
 
 
@@ -348,7 +346,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 20 current opportunities from 7 elite companies.**
+**🎯 18 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
