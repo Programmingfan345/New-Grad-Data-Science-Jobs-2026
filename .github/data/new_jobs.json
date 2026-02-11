@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "AMD",
+    "job_title": "Data Scientist- Business Planning, Pricing",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Strong proficiency in Python (preferred), R, and SQL.\n• Excel as a business enablement toolExperience translating complex models into explainable, auditable insights suitable for executive audiencesExperience with pricing, profitability, or revenue management.\n• Power BI or similar Master’s or Bachelor’s degree in Data Science, Computer Science, Mathematics, Statistics, or Finance AMD Partner Hub Authorized Distributors AMD University Program Own the end-to-end development and deployment of ML/AI based pricing models designed to improve margins and increase operation efficienciesOperationalize models in production environments and ensure ongoing monitoring, recalibration, and performance trackingProduce forward-looking insights articulating trade-offs, risks, and upside potentialConduct structured scenario modeling, sensitivity analysis, competitive pricing and market analysis to identify gaps and opportunitiesDefine KPI frameworks and success metrics for pricing initiatives to track trends in margin, pricing, discount effectiveness, deal quality, and quote cycle timesManage the deal scoring framework, supporting pricing governance and quote approval workflowsProactively surface trends, risks, and opportunities for senior stakeholders Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Familiarity with CPQ, quote-to-cash or Deal Desk processes.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/78465/login",
+    "id": "amd-data-scientist-business-planning-pricing-san-jose"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Analyst",
     "job_city": "Florence",
