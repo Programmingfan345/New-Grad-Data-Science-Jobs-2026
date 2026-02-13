@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Product Data Scientist, YouTube Shopping",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "data science job for the role Product Data Scientist, YouTube Shopping",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134971536053281478-product-data-scientist-youtube-shopping?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-product-data-scientist-youtube-shopping-san-bruno"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Data Analyst",
     "job_city": "Florence",
