@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 6 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** February 17, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 42 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 41 (older than 1 week)
 
 ---
 
@@ -90,8 +90,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Product Data Scientist, YouTube Shopping | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134971536053281478-product-data-scientist-youtube-shopping?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3d |
 | Data Scientist/Analyst, Corporate Financial Planning and Analysis | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133361249734795974-data-scientistanalyst-corporate-financial-planning-and-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
+| Product Data Scientist, YouTube Shopping | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134971536053281478-product-data-scientist-youtube-shopping?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Research Data Scientist, Vertical Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125826502708077254-research-data-scientist-vertical-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Data Scientist, Product, Education, Data Science | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105366743093781190-data-scientist-product-education-data-science?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Data Scientist, Research, PhD, Early Career, 2026 Start | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106428613359739590-data-scientist-research-phd-early-career-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
@@ -174,12 +174,12 @@ List of top locations and number of positions.
 
 - **Mountain View, CA**: 5 positions
 - **Sunnyvale, CA**: 3 positions
-- **San Bruno, CA**: 1 positions
 - **Herndon, VA**: 1 positions
+- **San Bruno, CA**: 1 positions
 - **Pasadena, CA**: 1 positions
+- **Springfield, VA**: 1 positions
 - **San Jose, CA**: 1 positions
 - **Florence, SC**: 1 positions
-- **Bellevue, WA**: 1 positions
 
 ---
 
@@ -246,13 +246,13 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 42 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 41 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 42 positions
+📁 **Total Jobs:** 41 positions
 
 🏢 **Companies:** 6 companies
 
@@ -309,13 +309,7 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Security Data Science Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr326778/security-data-science-engineer/) | 1w |
 
-### 💻 **Enterprise Software** (4 positions)
-
-#### 🔵 **IBM** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Entry level AI/ML Engineer: SVL | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=79649&source=WEB_Search_NA) | 1w |
+### 💻 **Enterprise Software** (3 positions)
 
 #### 🖥️ **Hewlett Packard Enterprise** (3 positions)
 
