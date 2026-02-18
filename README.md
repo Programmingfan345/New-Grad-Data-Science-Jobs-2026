@@ -4,14 +4,14 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Data Science Jobs" width="200">
 
 <h3>💼 New Grad Data Science Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 6</em></p>
+<p><em>Real-time job opportunities from 7</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-26-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-25-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-11-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 26+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 25+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,26 +65,25 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 26 hot data-focused jobs
-- 🏢 **Top Companies:** 6 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 25 hot data-focused jobs
+- 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** February 18, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 40 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 41 (older than 1 week)
 
 ---
 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (12 positions)
+### 🏢 **FAANG+** (11 positions)
 
-#### 📦 **Amazon** (3 positions)
+#### 📦 **Amazon** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist, AWS Infrastructure Services Science | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3181348/data-scientist-aws-infrastructure-services-science) | 4d |
 | Applied Scientist, Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3181264/applied-scientist-quantum-computing) | 5d |
-| Applied Scientist , TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3179953/applied-scientist-tsi-science) | 6d |
 
 #### 🟢 **Google** (9 positions)
 
@@ -108,14 +107,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Scientist- Business Planning, Pricing | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/78465/login) | 6d |
 
-### 🚀 **Consulting & Services** (12 positions)
+### 🚀 **Consulting & Services** (11 positions)
 
-#### 🛡️ **BAE Systems** (11 positions)
+#### 🛡️ **BAE Systems** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | Buckley AFB, CO | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234101?q=data+science) | 1d |
-| Data Scientist, Mid | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Mid_R0228089?q=data+science) | 1d |
 | Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0234059?q=data+science) | 4d |
 | Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Scientist_R0233901?q=data+science) | 5d |
 | Data Scientist | Scott AFB, IL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Data-Scientist_R0233873?q=data+science) | 5d |
@@ -140,6 +138,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Scientist | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 1mo |
 
+### 🏭 **Manufacturing & Industrial** (1 position)
+
+#### ⚡ **ABB** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Data Analyst | Florence, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00023488/Data-Analyst) | 6d |
+
 
 
 ---
@@ -149,7 +155,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (9 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (9 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -165,9 +171,9 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 1 | 4% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 13 | 50% | 1-2 years of experience. |
-| 🔴 Manager | 12 | 46% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 2 | 8% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 11 | 44% | 1-2 years of experience. |
+| 🔴 Manager | 12 | 48% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -177,16 +183,16 @@ List of top locations and number of positions.
 - **Sunnyvale, CA**: 3 positions
 - **MacDill AFB, FL**: 2 positions
 - **Buckley AFB, CO**: 1 positions
-- **McLean, VA**: 1 positions
 - **San Bruno, CA**: 1 positions
 - **Herndon, VA**: 1 positions
 - **Springfield, VA**: 1 positions
+- **Pasadena, CA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 26+ verified roles for data analysts and scientists from 6 elite tech companies.
+✅ **100% Real Jobs:** 25+ verified roles for data analysts and scientists from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -247,37 +253,38 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 40 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 41 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 40 positions
+📁 **Total Jobs:** 41 positions
 
-🏢 **Companies:** 6 companies
+🏢 **Companies:** 7 companies
 
 
-### 🏢 **FAANG+** (15 positions)
+### 🏢 **FAANG+** (16 positions)
 
-#### 📦 **Amazon** (7 positions)
+#### 📦 **Amazon** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Applied Scientist (Contract), Artificial General Intelligence | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3179188/applied-scientist-contract-artificial-general-intelligence) | 1w |
 | Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3171109/data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering) | 2w |
 | Applied Scientist II, Measurement, AdTech and Data Science (NYC/Seattle/Palo Alto), Performance Measurement | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3167252/applied-scientist-ii-measurement-adtech-and-data-science-nyc-seattle-palo-alto-performance-measurement) | 3w |
-| Applied Scientist, Amazon Connect | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3168981/applied-scientist-amazon-connect) | 3w |
-| Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3165508/research-scientist-artificial-general-intelligence-data-services) | 3w |
 | Quantum Research Engineer, Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3169031/quantum-research-engineer-quantum-computing) | 3w |
+| Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3165508/research-scientist-artificial-general-intelligence-data-services) | 3w |
+| Applied Scientist, Amazon Connect | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3168981/applied-scientist-amazon-connect) | 3w |
+| Applied Scientist , TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3166928/applied-scientist-tsi-science) | 3w |
 | Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3163492/data-engineer) | 4w |
 
 #### 🟢 **Google** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist, Quantum Interconnects, Quantum AI | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111549992761467590-research-scientist-quantum-interconnects-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 2w |
 | Product Data Scientist, Engineering Productivity, Applied AI | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135943124227629766-product-data-scientist-engineering-productivity-applied-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
+| Research Scientist, Quantum Interconnects, Quantum AI | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111549992761467590-research-scientist-quantum-interconnects-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 2w |
 | Data Center Analytics Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127955081252217542-data-center-analytics-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Product Data Scientist, Android and Business Communication | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99536712878695110-product-data-scientist-android-and-business-communication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 
@@ -286,9 +293,9 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-3956/applecare-data-scientist?team=OPMFG) | 2w |
-| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-0157/applecare-data-scientist?team=OPMFG) | 2w |
 | Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3956/data-engineer?team=CORSV) | 3w |
 | Data Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3337/data-engineer?team=CORSV) | 3w |
+| Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3577/data-engineer?team=CORSV) | 3w |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -363,7 +370,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 26 current opportunities from 6 elite companies.**
+**🎯 25 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
