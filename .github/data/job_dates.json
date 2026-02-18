@@ -1,28 +1,4 @@
 {
-  "google-data-scientist,-research,-data-science,-developer-ai-sunnyvale": {
-    "assigned_date": "2025-12-17T16:38:04.728Z",
-    "job_title": "Data Scientist, Research, Data Science, Developer AI",
-    "company": "Google",
-    "first_seen": "2025-12-17T16:38:04.728Z"
-  },
-  "google-research-data-scientist,-genai-quality,-youtube-san-bruno": {
-    "assigned_date": "2025-12-18T12:37:31.575Z",
-    "job_title": "Research Data Scientist, GenAI Quality, YouTube",
-    "company": "Google",
-    "first_seen": "2025-12-18T12:37:31.575Z"
-  },
-  "google-research-data-scientist,-ads-metrics-mountain-view": {
-    "assigned_date": "2025-12-19T10:24:42.777Z",
-    "job_title": "Research Data Scientist, Ads Metrics",
-    "company": "Google",
-    "first_seen": "2025-12-19T10:24:42.777Z"
-  },
-  "google-research-scientist,-xr,-hand-tracking-san-jose": {
-    "assigned_date": "2025-12-20T01:08:15.677Z",
-    "job_title": "Research Scientist, XR, Hand Tracking",
-    "company": "Google",
-    "first_seen": "2025-12-20T01:08:15.677Z"
-  },
   "google-business-data-scientist,-forecasting,-google-cloud-sunnyvale": {
     "assigned_date": "2025-12-23T07:27:15.957Z",
     "job_title": "Business Data Scientist, Forecasting, Google Cloud",
@@ -298,5 +274,11 @@
     "job_title": "Product Data Scientist, YouTube Shopping",
     "company": "Google",
     "first_seen": "2026-02-13T10:06:47.929Z"
+  },
+  "google-product-data-scientist,-education,-data-science-mountain-view": {
+    "assigned_date": "2026-02-18T11:59:20.282Z",
+    "job_title": "Product Data Scientist, Education, Data Science",
+    "company": "Google",
+    "first_seen": "2026-02-18T11:59:20.282Z"
   }
 }
