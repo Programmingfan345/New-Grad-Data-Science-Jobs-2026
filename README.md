@@ -89,8 +89,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist, Chrome, Research | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129928706503123654-data-scientist-chrome-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 6h |
-| Data Scientist, Research Operations | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132963014998401734-data-scientist-research-operations?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 22h |
+| Data Scientist, Chrome, Research | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129928706503123654-data-scientist-chrome-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 7h |
+| Data Scientist, Research Operations | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132963014998401734-data-scientist-research-operations?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 23h |
 | Business Data Scientist, Trust and Safety | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143159336078582470-business-data-scientist-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Business Data Scientist, Ads Revenue | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143458403241337542-business-data-scientist-ads-revenue?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1d |
 | Product Data Scientist, Education, Data Science | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105366743093781190-product-data-scientist-education-data-science?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
@@ -174,8 +174,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 5% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 15 | 68% | 1-2 years of experience. |
-| 🔴 Manager | 6 | 27% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 13 | 59% | 1-2 years of experience. |
+| 🔴 Manager | 8 | 36% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -266,7 +266,7 @@ Either still hiring or useful for research.
 🏢 **Companies:** 8 companies
 
 
-### 🏢 **FAANG+** (16 positions)
+### 🏢 **FAANG+** (17 positions)
 
 #### 📦 **Amazon** (8 positions)
 
@@ -290,13 +290,14 @@ Either still hiring or useful for research.
 | Research Data Scientist, Vertical Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125826502708077254-research-data-scientist-vertical-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1w |
 | Data Center Analytics Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127955081252217542-data-center-analytics-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-3956/applecare-data-scientist?team=OPMFG) | 2w |
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-0157/applecare-data-scientist?team=OPMFG) | 2w |
-| Data Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3337/data-engineer?team=CORSV) | 3w |
 | Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3956/data-engineer?team=CORSV) | 3w |
+| Data Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3337/data-engineer?team=CORSV) | 3w |
 | Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3577/data-engineer?team=CORSV) | 3w |
 
 ### 🏢 **Top Tech** (4 positions)
@@ -336,14 +337,13 @@ Either still hiring or useful for research.
 | Machine Learning and LLM Research Scientist | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/Machine-Learning-and-LLM-Research-Scientist_1200686-1?q=data+science&locations=e459dee6bf0a01f51082fd2708240d5c&locations=3950c424ea1c01d5b87223aa442cc958&locations=e69f9781661b10219199635d840babb5&locations=bb84e32ded880145afe5d2d0dd2b5c62&locations=f607629c2aa1010d124a5599402c703f&locations=e69f9781661b102191a28884e0f0b85f&locations=e459dee6bf0a01607d49d56409244b64&locations=e69f9781661b1021919815e9ca32a9ee&locations=bb84e32ded88013ee847c281d92b6745&locations=90058e87ba0e1001d2f4d7e27b0d0000&locations=47385449f64a017d4c903202dc2b5657&locations=98cbd30d374e10330ceffda6d7a4fc41&locations=2e0d9cc9554b01deafe88869442cb356&locations=acac3e510b17018644380803dc2b7f55&locations=bb84e32ded88017f2a05da01dc2b4656&locations=2e0d9cc9554b01761ed1696d442cbe56&locations=62b0c47c914b015d3c97fb6707248955&locations=acac3e510b1701630be274ffdb2b6d55&locations=98cbd30d374e10330cf05e491004fc5f&locations=cc3bff87cf8101bded44c0f2dc00e375&locations=f607629c2aa10196b908a08e462c0567) | 3w |
 | Machine Learning and Generative AI Research Scientist | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/Machine-Learning-and-Generative-AI-Research-Scientist_1200688-1?q=data+science&locations=e459dee6bf0a01f51082fd2708240d5c&locations=3950c424ea1c01d5b87223aa442cc958&locations=e69f9781661b10219199635d840babb5&locations=bb84e32ded880145afe5d2d0dd2b5c62&locations=f607629c2aa1010d124a5599402c703f&locations=e69f9781661b102191a28884e0f0b85f&locations=e459dee6bf0a01607d49d56409244b64&locations=e69f9781661b1021919815e9ca32a9ee&locations=bb84e32ded88013ee847c281d92b6745&locations=90058e87ba0e1001d2f4d7e27b0d0000&locations=47385449f64a017d4c903202dc2b5657&locations=98cbd30d374e10330ceffda6d7a4fc41&locations=2e0d9cc9554b01deafe88869442cb356&locations=acac3e510b17018644380803dc2b7f55&locations=bb84e32ded88017f2a05da01dc2b4656&locations=2e0d9cc9554b01761ed1696d442cbe56&locations=62b0c47c914b015d3c97fb6707248955&locations=acac3e510b1701630be274ffdb2b6d55&locations=98cbd30d374e10330cf05e491004fc5f&locations=cc3bff87cf8101bded44c0f2dc00e375&locations=f607629c2aa10196b908a08e462c0567) | 3w |
 
-### 🚀 **Consulting & Services** (25 positions)
+### 🚀 **Consulting & Services** (24 positions)
 
 <details>
-<summary><h4>🛡️ <strong>BAE Systems</strong> (17 positions)</h4></summary>
+<summary><h4>🛡️ <strong>BAE Systems</strong> (16 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Scientist_R0233901?q=data+science) | 1w |
 | Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229008?q=data+science) | 1w |
 | Data Scientist | Fayetteville, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0229726?q=data+science) | 1w |
 | Data Scientist | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Data-Scientist_R0233691?q=data+science) | 1w |
