@@ -138,7 +138,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Platform Analytics & AI Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/platform-analytics-and-ai-engineer/33099/86006621520) | 8h |
+| Platform Analytics & AI Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/platform-analytics-and-ai-engineer/33099/86006621520) | 9h |
 
 #### 🔧 **Texas Instruments** (1 position)
 
