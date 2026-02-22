@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Data Science Jobs" width="200">
 
 <h3>💼 New Grad Data Science Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 7</em></p>
+<p><em>Real-time job opportunities from 6</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-20-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-19-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-11-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 20+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 19+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,8 +65,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 20 hot data-focused jobs
-- 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 19 hot data-focused jobs
+- 🏢 **Top Companies:** 6 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** February 22, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Developer Jobs:** 48 (older than 1 week)
@@ -133,14 +133,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Scientist | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 1mo |
 
-### 🏭 **Manufacturing & Industrial** (1 position)
-
-#### 🔧 **Texas Instruments** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Career Accelerator Program - Data Engineer | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007805/?keyword=data+science&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 4d |
-
 
 
 ---
@@ -167,8 +159,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 5% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 11 | 55% | 1-2 years of experience. |
-| 🔴 Manager | 8 | 40% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 11 | 58% | 1-2 years of experience. |
+| 🔴 Manager | 7 | 37% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -178,16 +170,16 @@ List of top locations and number of positions.
 - **Sunnyvale, CA**: 3 positions
 - **Seattle, WA**: 2 positions
 - **Austin, TX**: 1 positions
-- **Dallas, TX**: 1 positions
 - **New York, NY**: 1 positions
 - **Washington, DC**: 1 positions
 - **Buckley AFB, CO**: 1 positions
+- **Falls Church, VA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 20+ verified roles for data analysts and scientists from 7 elite tech companies.
+✅ **100% Real Jobs:** 19+ verified roles for data analysts and scientists from 6 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -256,7 +248,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** 48 positions
 
-🏢 **Companies:** 7 companies
+🏢 **Companies:** 6 companies
 
 
 ### 🏢 **FAANG+** (17 positions)
@@ -337,6 +329,7 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 2w |
 | Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229008?q=data+science) | 1w |
 | Data Scientist | Fayetteville, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0229726?q=data+science) | 1w |
 | Data Scientist | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Data-Scientist_R0233691?q=data+science) | 1w |
@@ -347,7 +340,6 @@ Either still hiring or useful for research.
 | Data Scientist, Junior | Charleston, SC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Data-Scientist--Junior_R0232545?q=data+science) | 1w |
 | Data Scientist, Mid | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0233833?q=data+science) | 1w |
 | Data Analyst | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Analyst_R0233876?q=data+science) | 1w |
-| Data Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 2w |
 | Data Scientist, Mid | Falls Church, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Falls-Church-VA/Data-Scientist--Mid_R0232440?q=data+science) | 2w |
 | Data Scientist | San Antonio, TX | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0232563?q=data+science) | 3w |
 | Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0233210?q=data+science) | 3w |
@@ -375,7 +367,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 20 current opportunities from 7 elite companies.**
+**🎯 19 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
