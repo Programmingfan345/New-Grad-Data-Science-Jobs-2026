@@ -67,7 +67,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - 🔥 **Current Positions:** 22 hot data-focused jobs
 - 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
-- 📅 **Last Updated:** February 23, 2026
+- 📅 **Last Updated:** February 24, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Developer Jobs:** 45 (older than 1 week)
 
@@ -82,7 +82,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3185471/data-engineer-aws-dc-central-operations) | 4d |
+| Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3185471/data-engineer-aws-dc-central-operations) | 5d |
 
 #### 🟢 **Google** (10 positions)
 
@@ -139,7 +139,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Career Accelerator Program - Data Engineer | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007805/?keyword=data+science&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 5d |
+| Career Accelerator Program - Data Engineer | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007805/?keyword=data+science&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 6d |
 
 
 
@@ -267,10 +267,10 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Scientist, AWS Infrastructure Services Science | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3181348/data-scientist-aws-infrastructure-services-science) | 1w |
 | Applied Scientist (Contract), Artificial General Intelligence | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3179188/applied-scientist-contract-artificial-general-intelligence) | 1w |
-| Applied Scientist II, Measurement, AdTech and Data Science (NYC/Seattle/Palo Alto), Performance Measurement | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3167252/applied-scientist-ii-measurement-adtech-and-data-science-nyc-seattle-palo-alto-performance-measurement) | 3w |
 | Quantum Research Engineer, Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3169031/quantum-research-engineer-quantum-computing) | 3w |
 | Applied Scientist, Amazon Connect | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3168981/applied-scientist-amazon-connect) | 3w |
 | Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3171109/data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering) | 3w |
+| Applied Scientist II, Measurement, AdTech and Data Science (NYC/Seattle/Palo Alto), Performance Measurement | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3167252/applied-scientist-ii-measurement-adtech-and-data-science-nyc-seattle-palo-alto-performance-measurement) | 4w |
 | Applied Scientist , TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3166928/applied-scientist-tsi-science) | 4w |
 
 #### 🟢 **Google** (4 positions)
@@ -286,10 +286,10 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3956/data-engineer?team=CORSV) | 3w |
-| Data Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3337/data-engineer?team=CORSV) | 3w |
-| Data Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3577/data-engineer?team=CORSV) | 3w |
+| AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-3956/applecare-data-scientist?team=OPMFG) | 3w |
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-0157/applecare-data-scientist?team=OPMFG) | 3w |
+| Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3956/data-engineer?team=CORSV) | 4w |
+| Data Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643840-3337/data-engineer?team=CORSV) | 4w |
 
 ### 🏢 **Top Tech** (4 positions)
 
@@ -345,8 +345,8 @@ Either still hiring or useful for research.
 | Data Scientist, Junior | Charleston, SC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Data-Scientist--Junior_R0232545?q=data+science) | 1w |
 | Data Scientist, Mid | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0233833?q=data+science) | 1w |
 | Data Analyst | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Analyst_R0233876?q=data+science) | 1w |
-| Data Scientist, Mid | Falls Church, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Falls-Church-VA/Data-Scientist--Mid_R0232440?q=data+science) | 2w |
 | Data Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 2w |
+| Data Scientist, Mid | Falls Church, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Falls-Church-VA/Data-Scientist--Mid_R0232440?q=data+science) | 2w |
 | Data Scientist | San Antonio, TX | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0232563?q=data+science) | 3w |
 | Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0233210?q=data+science) | 3w |
 | Data Scientist, Mid | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0228064?q=data+science) | 3w |
@@ -380,6 +380,6 @@ Either still hiring or useful for research.
 
 ---
 
-**Last Updated:** February 23, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 24, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
