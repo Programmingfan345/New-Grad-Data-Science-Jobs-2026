@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Scientist, TSI Science",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "data science job for the role Data Scientist, TSI Science",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3188465/data-scientist-tsi-science",
+    "id": "amazon-data-scientist-tsi-science-seattle"
+  }
+]
