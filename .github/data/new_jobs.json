@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer, Marketplace",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "20h",
+    "job_description": "data science job for the role Data Engineer, Marketplace",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3190726/data-engineer-marketplace",
+    "id": "amazon-data-engineer-marketplace-austin"
+  }
+]
