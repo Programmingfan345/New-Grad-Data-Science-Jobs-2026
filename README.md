@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-33-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-34-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-15-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-16-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 33+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 34+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 33 hot data-focused jobs
+- 🔥 **Current Positions:** 34 hot data-focused jobs
 - 🏢 **Top Companies:** 10 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** February 27, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -76,21 +76,22 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (15 positions)
+### 🏢 **FAANG+** (16 positions)
 
-#### 📦 **Amazon** (3 positions)
+#### 📦 **Amazon** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer, Marketplace | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190726/data-engineer-marketplace) | 1d |
-| Applied Scientist, Foundational Capabilities, AWS Applied AI Solutions Core Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190739/applied-scientist-foundational-capabilities-aws-applied-ai-solutions-core-services) | 1d |
 | Data Scientist, TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3188465/data-scientist-tsi-science) | 3d |
+| Data Scientist II, Operations Technology Solutions, Global Workforce Management | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3188409/data-scientist-ii-operations-technology-solutions-global-workforce-management) | 3d |
+| Data Scientist, Rapid & Rural Logistics (R2L) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3187361/data-scientist-rapid-rural-logistics-r2l) | 4d |
 
 #### 🟢 **Google** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Business Data Scientist, Ads Marketing Analytics | Kirkland, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82324581779415750-business-data-scientist-ads-marketing-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 12h |
+| Business Data Scientist, Ads Marketing Analytics | Kirkland, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82324581779415750-business-data-scientist-ads-marketing-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 13h |
 | Data Scientist, Search Platforms | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127172922342023878-data-scientist-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Business Data Scientist, Ads Marketing Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86854105829384902-business-data-scientist-ads-marketing-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Data Engineer, Machine Learning, Google Customer Solutions | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142665041177387718-data-engineer-machine-learning-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1d |
@@ -178,7 +179,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (10 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (10 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (4)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -195,27 +196,27 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 15 | 45% | 1-2 years of experience. |
-| 🔴 Manager | 15 | 45% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 16 | 47% | 1-2 years of experience. |
+| 🔴 Manager | 15 | 44% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 6 positions
-- **Austin, TX**: 3 positions
-- **Seattle, WA**: 2 positions
+- **Austin, TX**: 4 positions
 - **Cupertino, CA**: 2 positions
 - **Sunnyvale, CA**: 2 positions
 - **Kirkland, WA**: 1 positions
 - **San Francisco, CA**: 1 positions
 - **Palo Alto, CA**: 1 positions
+- **Tampa, FL**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 33+ verified roles for data analysts and scientists from 10 elite tech companies.
+✅ **100% Real Jobs:** 34+ verified roles for data analysts and scientists from 10 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -289,14 +290,13 @@ Either still hiring or useful for research.
 
 ### 🏢 **FAANG+** (11 positions)
 
-#### 📦 **Amazon** (5 positions)
+#### 📦 **Amazon** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3185471/data-engineer-aws-dc-central-operations) | 1w |
 | Data Scientist, AWS Infrastructure Services Science | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3181348/data-scientist-aws-infrastructure-services-science) | 1w |
 | Applied Scientist (Contract), Artificial General Intelligence | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3179185/applied-scientist-contract-artificial-general-intelligence) | 2w |
-| Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3171109/data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering) | 3w |
 | Research Scientist, GES NA Ops Engineering | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3169377/research-scientist-ges-na-ops-engineering) | 4w |
 
 #### 🟢 **Google** (6 positions)
@@ -309,6 +309,12 @@ Either still hiring or useful for research.
 | Data Scientist/Analyst, Corporate Financial Planning and Analysis | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133361249734795974-data-scientistanalyst-corporate-financial-planning-and-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Research Data Scientist, Vertical Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125826502708077254-research-data-scientist-vertical-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Product Data Scientist, Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130412049237713606-product-data-scientist-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
+
+#### 🍎 **Apple** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200644806-0157/applecare-data-scientist?team=OPMFG) | 3w |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -376,7 +382,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 33 current opportunities from 10 elite companies.**
+**🎯 34 current opportunities from 10 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
