@@ -93,8 +93,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Business Data Scientist, Ads Marketing Analytics | Kirkland, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82324581779415750-business-data-scientist-ads-marketing-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
-| Business Data Scientist, Ads Marketing Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86854105829384902-business-data-scientist-ads-marketing-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Data Scientist, Search Platforms | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127172922342023878-data-scientist-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
+| Business Data Scientist, Ads Marketing Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86854105829384902-business-data-scientist-ads-marketing-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
 | Data Engineer, Machine Learning, Google Customer Solutions | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142665041177387718-data-engineer-machine-learning-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 2d |
 | Data Scientist, Research, gTrade | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135046512223625926-data-scientist-research-gtrade?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127950988953690822-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
@@ -206,8 +206,8 @@ List of top locations and number of positions.
 - **Cupertino, CA**: 2 positions
 - **Sunnyvale, CA**: 2 positions
 - **Kirkland, WA**: 1 positions
-- **Honolulu, HI**: 1 positions
 - **San Francisco, CA**: 1 positions
+- **Dallas, TX**: 1 positions
 
 ---
 
