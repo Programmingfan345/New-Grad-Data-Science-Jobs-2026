@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-33-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-34-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-17-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 8+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 33+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 8+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 34+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 33 hot data-focused jobs
+- 🔥 **Current Positions:** 34 hot data-focused jobs
 - 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** March 1, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -110,12 +110,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR) | 4d |
 | Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643156-0836/data-engineer?team=SFTWR) | 5d |
 
-### 🏢 **Top Tech** (1 position)
+### 🏢 **Top Tech** (2 positions)
 
-#### ☁️ **Salesforce** (1 position)
+#### ☁️ **Salesforce** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| AI Engineer, Agent Systems | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/) | 3d |
 | AI Engineer, ML Systems | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329632/ai-engineer-ml-systems/) | 4d |
 
 ### 💻 **Enterprise Software** (1 position)
@@ -176,7 +177,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (2 companies)
-📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (1 position) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (1)
+📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (1 position) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (2)
 
 ---
 
@@ -184,9 +185,9 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 6% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 17 | 52% | 1-2 years of experience. |
-| 🔴 Manager | 14 | 42% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 17 | 50% | 1-2 years of experience. |
+| 🔴 Manager | 14 | 41% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -199,13 +200,13 @@ List of top locations and number of positions.
 - **Sunnyvale, CA**: 2 positions
 - **Kirkland, WA**: 1 positions
 - **Honolulu, HI**: 1 positions
-- **Tampa, FL**: 1 positions
+- **Palo Alto, CA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 33+ verified roles for data analysts and scientists from 8 elite tech companies.
+✅ **100% Real Jobs:** 34+ verified roles for data analysts and scientists from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -372,7 +373,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 33 current opportunities from 8 elite companies.**
+**🎯 34 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
