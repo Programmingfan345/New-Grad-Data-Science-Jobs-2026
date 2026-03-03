@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Apple",
-    "job_title": "Research Scientist, AI Evaluation Science",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "19h",
-    "job_description": "• Minimum QualificationsPh.\n• In Computer Science, Machine Learning, or a closely related field, with a research focus in evaluation-adjacent areas (preference learning, RLHF, human feedback, calibration, automated assessment)Strong publication record at top-tier conferences (NeurIPS, ICML, ICLR, ACL, EMNLP), including first-author publications demonstrating independent research contributionsDeep technical expertise in at least one evaluation-adjacent ML area, with strong mathematical foundations: preference learning and reward modeling (RLHF, DPO, reward hacking, specification gaming).\n• OR human-AI interaction methodology (active learning, annotation quality, preference elicitation)Demonstrated ability to implement complex methods from recent papers and run large-scale experimentsTrack record of translating research into practical systems—prototypes, tools, or methods adopted by othersExcellent written and verbal communication skills, including the ability to write clear research papers and explain complex concepts to diverse audiences.\n• OR calibration theory, proper scoring rules, and statistical reliability.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200649482-3337/research-scientist-ai-evaluation-science?team=SFTWR",
-    "id": "apple-research-scientist-ai-evaluation-science-seattle"
-  }
-]
+[]
