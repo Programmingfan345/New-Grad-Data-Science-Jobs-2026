@@ -82,9 +82,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3193573/applied-scientist-spx-ai-lab) | 1d |
 | Data Engineer, Marketplace | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190726/data-engineer-marketplace) | 5d |
 | Applied Scientist, Foundational Capabilities, AWS Applied AI Solutions Core Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190739/applied-scientist-foundational-capabilities-aws-applied-ai-solutions-core-services) | 5d |
-| Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3189116/applied-scientist-spx-ai-lab) | 6d |
 
 #### 🟢 **Google** (8 positions)
 
@@ -112,8 +112,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AI Engineer, ML Systems | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329632/ai-engineer-ml-systems/) | 6d |
 | AI Engineer, Agent Systems | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/) | 5d |
+| AI Engineer, ML Systems | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329632/ai-engineer-ml-systems/) | 6d |
 
 ### 🚀 **Consulting & Services** (12 positions)
 
@@ -175,11 +175,11 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 5 positions
 - **Seattle, WA**: 3 positions
 - **San Bruno, CA**: 1 positions
-- **Kirkland, WA**: 1 positions
-- **Austin, TX**: 1 positions
-- **Cupertino, CA**: 1 positions
-- **San Francisco, CA**: 1 positions
-- **Sunnyvale, CA**: 1 positions
+- **San Diego, CA**: 1 positions
+- **Norfolk, VA**: 1 positions
+- **Camp Lejeune, NC**: 1 positions
+- **Charleston, SC**: 1 positions
+- **Chantilly, VA**: 1 positions
 
 ---
 
