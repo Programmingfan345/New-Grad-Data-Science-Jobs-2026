@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-28-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-29-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-14-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-16-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 28+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 29+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 28 hot data-focused jobs
+- 🔥 **Current Positions:** 29 hot data-focused jobs
 - 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** March 4, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -76,12 +76,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (14 positions)
+### 🏢 **FAANG+** (16 positions)
 
-#### 📦 **Amazon** (3 positions)
+#### 📦 **Amazon** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Engineer, AWS Infrastructure Supply Chain Automation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3196170/data-engineer-aws-infrastructure-supply-chain-automation) | 20h |
 | Data Engineer II, Pricing Eligibility Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3195061/data-engineer-ii-pricing-eligibility-services) | 1d |
 | Data Engineer, Marketplace | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190726/data-engineer-marketplace) | 6d |
 | Applied Scientist, Foundational Capabilities, AWS Applied AI Solutions Core Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190739/applied-scientist-foundational-capabilities-aws-applied-ai-solutions-core-services) | 6d |
@@ -90,8 +91,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Data Scientist, Global Network Demand Modeling, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105512712926044870-research-data-scientist-global-network-demand-modeling-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1h |
-| Business Data Scientist, YouTube Partner Program | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86462849341104838-business-data-scientist-youtube-partner-program?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3h |
+| Research Data Scientist, Global Network Demand Modeling, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105512712926044870-research-data-scientist-global-network-demand-modeling-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2h |
+| Business Data Scientist, YouTube Partner Program | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86462849341104838-business-data-scientist-youtube-partner-program?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4h |
 | Research Data Scientist, YouTube Creator | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123667619143131846-research-data-scientist-youtube-creator?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
 | Business Data Scientist, Ads Marketing Analytics | Kirkland, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82324581779415750-business-data-scientist-ads-marketing-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Data Scientist, Search Platforms | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127172922342023878-data-scientist-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 6d |
@@ -101,19 +102,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Product Data Scientist III, Analytics Insights and Measurement | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/90084101893038790-product-data-scientist-iii-analytics-insights-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116931683420119750-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1mo |
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Scientist - Battery | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643116-0836/data-scientist-battery?team=HRDWR) | 20h |
 | Research Scientist, AI Evaluation Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649482-3337/research-scientist-ai-evaluation-science?team=SFTWR) | 1d |
 
-### 🏢 **Top Tech** (2 positions)
+### 🏢 **Top Tech** (1 position)
 
-#### ☁️ **Salesforce** (2 positions)
+#### ☁️ **Salesforce** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AI Engineer, ML Systems | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329632/ai-engineer-ml-systems/) | 6d |
 | AI Engineer, Agent Systems | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/) | 6d |
 
 ### 🚀 **Consulting & Services** (11 positions)
@@ -156,7 +157,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (10 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (10 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (4)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -164,7 +165,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (1 company)
-☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (2 positions)
+☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (1 position)
 
 ---
 
@@ -172,28 +173,28 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 11% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 18 | 64% | 1-2 years of experience. |
-| 🔴 Manager | 7 | 25% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 2 | 7% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 20 | 69% | 1-2 years of experience. |
+| 🔴 Manager | 7 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 5 positions
-- **Seattle, WA**: 3 positions
+- **Seattle, WA**: 4 positions
 - **Sunnyvale, CA**: 2 positions
 - **San Bruno, CA**: 2 positions
 - **Washington, DC**: 2 positions
-- **Kirkland, WA**: 1 positions
-- **Austin, TX**: 1 positions
-- **San Francisco, CA**: 1 positions
+- **Cupertino, CA**: 1 positions
+- **Boise, ID**: 1 positions
+- **Fort Meade, MD**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 28+ verified roles for data analysts and scientists from 7 elite tech companies.
+✅ **100% Real Jobs:** 29+ verified roles for data analysts and scientists from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -366,7 +367,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 28 current opportunities from 7 elite companies.**
+**🎯 29 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
