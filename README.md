@@ -192,8 +192,8 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 2 positions
 - **Honolulu, HI**: 2 positions
 - **Austin, TX**: 1 positions
+- **Boise, ID**: 1 positions
 - **Kirkland, WA**: 1 positions
-- **San Jose, CA**: 1 positions
 
 ---
 
