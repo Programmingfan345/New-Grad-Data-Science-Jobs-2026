@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Amazon",
-    "job_title": "Machine Learning Scientist - GenAI, AWS Support",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "21h",
-    "job_description": "data science job for the role Machine Learning Scientist - GenAI, AWS Support",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3202612/machine-learning-scientist-genai-aws-support",
-    "id": "amazon-machine-learning-scientist-genai-aws-support-mountain-view"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
-    "job_city": "Monterey",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• University, Data ScientistlocationsWashington, DCposted onPosted 30+ Days AgoR0228796.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Monterey-CA/Data-Scientist_R0235523?q=data+science",
-    "id": "bae-systems-data-scientist-monterey"
+    "job_title": "Data Scientist, Amazon Leo Global Planning, Amazon Leo",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "22h",
+    "job_description": "data science job for the role Data Scientist, Amazon Leo Global Planning, Amazon Leo",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3202656/data-scientist-amazon-leo-global-planning-amazon-leo",
+    "id": "amazon-data-scientist-amazon-leo-global-planning-amazon-leo-bellevue"
   }
 ]
