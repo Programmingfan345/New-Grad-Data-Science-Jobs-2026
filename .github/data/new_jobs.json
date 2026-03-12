@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Business Intelligence Engineer, GCID (Global Capacity & Infrastructure Development)",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_posted_at": "18h",
+    "job_description": "data science job for the role Business Intelligence Engineer, GCID (Global Capacity & Infrastructure Development)",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3203609/business-intelligence-engineer-gcid-global-capacity-infrastructure-development",
+    "id": "amazon-business-intelligence-engineer-gcid-global-capacity-infrastructure-development-denver"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer II, Amazon Payment Products",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "3d",
+    "job_description": "data science job for the role Data Engineer II, Amazon Payment Products",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3199507/data-engineer-ii-amazon-payment-products",
+    "id": "amazon-data-engineer-ii-amazon-payment-products-seattle"
+  }
+]
