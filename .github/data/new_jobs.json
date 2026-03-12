@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Engineer, Find My",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Minimum QualificationsBS in Computer Science, Data Engineering, or related field3+ years of experience working with large data sets and dimensional data modeling3+ years of experience with data processing using Spark and SparkSQLFamiliarity with data pipeline orchestration toolsProficiency in Java or Scala, and experience with PythonExperience with Amazon Web Services, GCP, or AzureStrong communication and collaboration skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR",
+    "id": "apple-data-engineer-find-my-cupertino"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "Applied AI Engineer",
+    "job_city": "Promontory B",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Senior/Staff Process Integration Engineer (Optoelectronics)locationsTaiwan-Taipei-Neihu-Ruiguang Roadtime typeFull timeposted onPosted 8 Days AgoR025272 Senior Infrastructure Engineer - Fab SupportlocationsUSA-Colorado-Fort Collins-4380 Ziegler Roadtime typeFull timeposted onPosted 8 Days AgoR025302 Mainframe Principal Technical Support Engineer (Sydney, Australia)locationsAUS-Sydney- Pitt St.\n• Time typeFull timeposted onPosted 16 Days AgoR025187 Senior/Staff Process Integration EngineerlocationsSingapore-Depot Roadtime typeFull timeposted onPosted 8 Days AgoR025273 Director - Mainframe Software Technical Supportlocations2 Locationstime typeFull timeposted onPosted 8 Days AgoR025324 Senior Software Engineer - Performancelocations3 Locationstime typeFull timeposted onPosted 7 Days AgoR023796 Senior ManagerlocationsUSA-CA - Promontory Ctime typeFull timeposted onPosted 14 Days AgoR025199.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Applied-AI-Engineer_R025337-1?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-applied-ai-engineer-promontory-b"
+  }
+]
