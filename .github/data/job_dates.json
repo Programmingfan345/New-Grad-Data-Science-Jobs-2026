@@ -1,34 +1,4 @@
 {
-  "google-research-scientist,-security-and-privacy,-google-research-new-york": {
-    "assigned_date": "2026-01-09T14:23:23.926Z",
-    "job_title": "Research Scientist, Security and Privacy, Google Research",
-    "company": "Google",
-    "first_seen": "2026-01-09T14:23:23.926Z"
-  },
-  "jpmorgan-chase-data-engineer/aws-": {
-    "assigned_date": "2026-01-09T15:21:56.606Z",
-    "job_title": "Data Engineer/AWS",
-    "company": "JPMorgan Chase",
-    "first_seen": "2026-01-09T15:21:56.606Z"
-  },
-  "salesforce-research-scientist---salesforce-ai-research-palo-alto": {
-    "assigned_date": "2026-01-09T20:52:39.211Z",
-    "job_title": "Research Scientist - Salesforce AI Research",
-    "company": "Salesforce",
-    "first_seen": "2026-01-09T20:52:39.211Z"
-  },
-  "salesforce-applied-scientist-lmts-san-francisco": {
-    "assigned_date": "2026-01-10T23:39:22.480Z",
-    "job_title": "Applied Scientist LMTS",
-    "company": "Salesforce",
-    "first_seen": "2026-01-10T23:39:22.480Z"
-  },
-  "google-research-data-scientist-iii,-ads-insight-and-measurement-new-york": {
-    "assigned_date": "2026-01-12T07:38:34.023Z",
-    "job_title": "Research Data Scientist III, Ads Insight and Measurement",
-    "company": "Google",
-    "first_seen": "2026-01-12T07:38:34.023Z"
-  },
   "google-product-data-scientist-iii,-analytics-insights-and-measurement-mountain-view": {
     "assigned_date": "2026-01-12T12:39:54.919Z",
     "job_title": "Product Data Scientist III, Analytics Insights and Measurement",
@@ -340,5 +310,11 @@
     "job_title": "Business Data Scientist, Statistics, Platform Analytics, Google Cloud",
     "company": "Google",
     "first_seen": "2026-03-09T15:46:41.044Z"
+  },
+  "arm-graduate-research-scientist,-ai-seattle": {
+    "assigned_date": "2026-03-13T08:01:04.635Z",
+    "job_title": "Graduate Research Scientist, AI",
+    "company": "Arm",
+    "first_seen": "2026-03-13T08:01:04.635Z"
   }
 }
