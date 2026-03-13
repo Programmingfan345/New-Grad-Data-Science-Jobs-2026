@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 10 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** March 13, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 46 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 44 (older than 1 week)
 
 ---
 
@@ -85,8 +85,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Intelligence Engineer, GCID (Global Capacity & Infrastructure Development) | Denver, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3203609/business-intelligence-engineer-gcid-global-capacity-infrastructure-development) | 1d |
 | Machine Learning Scientist - GenAI, AWS Support | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3202612/machine-learning-scientist-genai-aws-support) | 2d |
 | Data Scientist, Amazon Leo Global Planning, Amazon Leo | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3202656/data-scientist-amazon-leo-global-planning-amazon-leo) | 2d |
+| Applied Scientist II, GenAI Evaluation Media (GEM) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3201459/applied-scientist-ii-genai-evaluation-media-gem) | 3d |
 | Data Engineer II, Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3199404/data-engineer-ii-managed-operations-data-science-mods) | 4d |
-| Data Engineer II, Amazon Payment Products | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3199507/data-engineer-ii-amazon-payment-products) | 4d |
 
 #### 🟢 **Google** (3 positions)
 
@@ -102,13 +102,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Engineer, Find My | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR) | 1d |
 
-### 🏢 **Top Tech** (1 position)
+### 🏢 **Top Tech** (2 positions)
 
-#### 🔶 **AMD** (1 position)
+#### 🔶 **AMD** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | ML/AI Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72468/login) | 1mo |
+| Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/80133/login) | 1h |
 
 ### 💻 **Enterprise Software** (2 positions)
 
@@ -124,7 +125,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Applied AI Engineer | Promontory B, CA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Applied-AI-Engineer_R025337-1?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
-### 🚀 **Consulting & Services** (19 positions)
+### 🚀 **Consulting & Services** (18 positions)
 
 #### 🛡️ **BAE Systems** (4 positions)
 
@@ -135,7 +136,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist, Mid | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0228064?q=data+science) | 3d |
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229817?q=data+science) | 4d |
 
-#### ⚙️ **General Dynamics** (15 positions)
+#### ⚙️ **General Dynamics** (14 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -145,7 +146,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | High Performance Computing (HPC) Computational Scientist | Dayton, OH | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Dayton/High-Performance-Computing--HPC--Computational-Scientist_RQ215758-2?q=data+science) | 1d |
 | Data Engineer | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Data-Engineer_RQ215183-1?q=data+science) | 2d |
 | Data Scientist – Poly Clearance Required! | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Data-Scientist---Poly-Clearance-Required-_PRX25914-1?q=data+science) | 2d |
-| AI/ML Delivery Engineer | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=data+science) | 2d |
 | AI Engineer - Telework Oppty! | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/AI-Engineer---Telework-Oppty-_PRX25938-1?q=data+science) | 2d |
 | Data Analytics & Visualization Engineer - TS/SCI with Polygraph | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Analytics---Visualization-Engineer---TS-SCI-with-Polygraph_RQ212982-2?q=data+science) | 2d |
 | AI Engineer SME | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Honolulu/AI-Engineer-SME_RQ215854?q=data+science) | 2d |
@@ -161,7 +161,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| View job: Scientist II, Clinical Bioinformatics | Pleasanton, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171838431927) | 3h |
+| View job: Scientist II, Clinical Bioinformatics | Pleasanton, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171838431927) | 4h |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
@@ -169,7 +169,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Graduate Research Scientist, AI | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704) | 12h |
+| Graduate Research Scientist, AI | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704) | 13h |
 
 
 
@@ -188,7 +188,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
+📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
 
 ---
 
@@ -197,8 +197,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 3% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 15 | 45% | 1-2 years of experience. |
-| 🔴 Manager | 17 | 52% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 16 | 48% | 1-2 years of experience. |
+| 🔴 Manager | 16 | 48% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -206,10 +206,10 @@ List of top locations and number of positions.
 
 - **Mountain View, CA**: 3 positions
 - **McLean, VA**: 3 positions
+- **Austin, TX**: 2 positions
 - **Seattle, WA**: 2 positions
 - **San Diego, CA**: 2 positions
 - **Washington, DC**: 2 positions
-- **Austin, TX**: 1 positions
 - **Cupertino, CA**: 1 positions
 - **Denver, CO**: 1 positions
 
@@ -278,27 +278,25 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 46 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 44 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 46 positions
+📁 **Total Jobs:** 44 positions
 
 🏢 **Companies:** 10 companies
 
 
-### 🏢 **FAANG+** (21 positions)
+### 🏢 **FAANG+** (20 positions)
 
-#### 📦 **Amazon** (4 positions)
+#### 📦 **Amazon** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3193573/applied-scientist-spx-ai-lab) | 1w |
-| Data Scientist, Rapid & Rural Logistics (R2L) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3187361/data-scientist-rapid-rural-logistics-r2l) | 2w |
+| Applied Scientist, Foundational Capabilities, AWS Applied AI Solutions Core Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190739/applied-scientist-foundational-capabilities-aws-applied-ai-solutions-core-services) | 2w |
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3185471/data-engineer-aws-dc-central-operations) | 3w |
-| Applied Scientist , TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3179953/applied-scientist-tsi-science) | 4w |
 
 #### 🟢 **Google** (11 positions)
 
@@ -316,30 +314,25 @@ Either still hiring or useful for research.
 | Data Scientist/Analyst, Corporate Financial Planning and Analysis | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133361249734795974-data-scientistanalyst-corporate-financial-planning-and-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 | Research Data Scientist, Vertical Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125826502708077254-research-data-scientist-vertical-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 
-#### 🍎 **Apple** (6 positions)
+#### 🍎 **Apple** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Research Scientist, AI Evaluation Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649482-3337/research-scientist-ai-evaluation-science?team=SFTWR) | 1w |
-| Data Scientist, AIML Data Scientist | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-0836/data-scientist-aiml-data-scientist?team=SFTWR) | 1w |
 | Data Scientist, AIML Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-3337/data-scientist-aiml-data-scientist?team=SFTWR) | 1w |
+| Data Scientist, AIML Data Scientist | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-0836/data-scientist-aiml-data-scientist?team=SFTWR) | 1w |
+| Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 1w |
 | Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 1w |
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 1w |
 | Data Scientist - Battery | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643116-0836/data-scientist-battery?team=HRDWR) | 1w |
 
-### 🏢 **Top Tech** (2 positions)
+### 🏢 **Top Tech** (1 position)
 
 #### 🔶 **AMD** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist- Business Planning, Pricing | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/78465/login) | 4w |
-
-#### ☁️ **Salesforce** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| AI Engineer, Agent Systems | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/) | 2w |
 
 ### 💻 **Enterprise Software** (3 positions)
 
