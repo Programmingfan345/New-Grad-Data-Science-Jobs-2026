@@ -1,10 +1,4 @@
 {
-  "google-product-data-scientist-iii,-analytics-insights-and-measurement-mountain-view": {
-    "assigned_date": "2026-01-12T12:39:54.919Z",
-    "job_title": "Product Data Scientist III, Analytics Insights and Measurement",
-    "company": "Google",
-    "first_seen": "2026-01-12T12:39:54.919Z"
-  },
   "jpmorgan-chase-data-engineer/aws-columbus": {
     "assigned_date": "2026-01-12T21:26:00.315Z",
     "job_title": "Data Engineer/AWS",
@@ -316,5 +310,11 @@
     "job_title": "Graduate Research Scientist, AI",
     "company": "Arm",
     "first_seen": "2026-03-13T08:01:04.635Z"
+  },
+  "10x-genomics-view-job:-scientist-ii,-clinical-bioinformatics-pleasanton": {
+    "assigned_date": "2026-03-13T16:41:08.248Z",
+    "job_title": "View job: Scientist II, Clinical Bioinformatics",
+    "company": "10x Genomics",
+    "first_seen": "2026-03-13T16:41:08.248Z"
   }
 }
