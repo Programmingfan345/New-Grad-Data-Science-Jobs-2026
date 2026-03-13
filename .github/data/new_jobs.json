@@ -1,20 +1,10 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Data Engineer",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1h",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Direct experience on system power and performance analysis Bachelor’s or Master’s degree in Data Science, Computer Science, or Computer / Electrical Engineering preferred with 5-7+ years industry experience AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• Net, Java, C, Perl, Python, XML, SQL, JSON, etc.\n• Databases – relational, blob, intermediate stateless data stores, AWS, SnowflakeAnalysis Tools – PowerBI, Sigma, Excel, etc.\n• Process Flow – GitHub, Jenkins, nifi, ETL in general, etc.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/80133/login",
-    "id": "amd-data-engineer-austin"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist II, Clinical Bioinformatics",
     "job_city": "Pleasanton",
     "job_state": "CA",
-    "job_posted_at": "4h",
+    "job_posted_at": "5h",
     "job_description": "• Hands-on experience with 10x Genomics single-cell and in-situ transcriptomics technologies is a strong preference Hands-on research experience in cancer or autoimmune diseases is a strong preference Knowledge of clinical genomics, biomarker discovery and diagnostics Development of statistical models and algorithms for single-cell or spatial transcriptomics data Application of machine learning, particularly in the context of genomics Proficiency with workflow orchestration frameworks such as Snakemake, Nextflow or Martian Programming best practices including data analysis reproducibility, version control, design patterns, testing, debugging and profiling Track record of writing production-level code or maintaining published software packages High-throughput computing infrastructure such as HPCs or cloud computing Ph.\n• In bioinformatics, computational biology, genomics or a related discipline with extensive hands-on experience in single-cell NGS data analysis.\n• A minimum of 2 years of industry experience post Ph.\n• Experience analyzing large-scale single-cell or spatial transcriptomics datasets to derive biologically meaningful insights and/or diagnostic biomarkers.\n• Experience developing and optimizing high-performance, scalable code.\n• In-depth understanding of the assumptions, limitations and caveats of statistical methods.\n• Proficiency working in a Linux environment.\n• Goal-oriented, self-motivated and an independent problem solver.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171838431927",
     "id": "10x-genomics-view-job-scientist-ii-clinical-bioinformatics-pleasanton"
