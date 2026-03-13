@@ -4,14 +4,14 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Data Science Jobs" width="200">
 
 <h3>💼 New Grad Data Science Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 9</em></p>
+<p><em>Real-time job opportunities from 8</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-33-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-31-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 9+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 33+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 8+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 31+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,18 +65,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 33 hot data-focused jobs
-- 🏢 **Top Companies:** 9 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 31 hot data-focused jobs
+- 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** March 13, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 45 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 39 (older than 1 week)
 
 ---
 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (9 positions)
+### 🏢 **FAANG+** (8 positions)
 
 #### 📦 **Amazon** (5 positions)
 
@@ -92,15 +92,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116931683420119750-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3d |
+| Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116931683420119750-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4d |
 | Business Data Scientist, Customer Voice, Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92419084217393862-business-data-scientist-customer-voice-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4d |
 | Product Data Scientist III, Analytics Insights and Measurement | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/90084101893038790-product-data-scientist-iii-analytics-insights-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2mo |
-
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Data Engineer, Find My | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR) | 1d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -124,25 +118,23 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Applied AI Engineer | Promontory B, CA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Applied-AI-Engineer_R025337-1?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
-### 🚀 **Consulting & Services** (20 positions)
+### 🚀 **Consulting & Services** (19 positions)
 
 #### 🛡️ **BAE Systems** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist_R0234221?q=data+science) | 3d |
+| Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229817?q=data+science) | 4d |
 | Data Scientist | Monterey, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Monterey-CA/Data-Scientist_R0235523?q=data+science) | 2d |
 | Data Scientist, Mid | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0228064?q=data+science) | 3d |
-| Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229817?q=data+science) | 4d |
 
-<details>
-<summary><h4>⚙️ <strong>General Dynamics</strong> (16 positions)</h4></summary>
+#### ⚙️ **General Dynamics** (15 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | AI/ML Engineer (Tactical Networks - CANES) - Active Secret clearance | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/AI-ML-Engineer--Tactical-Networks---CANES----Active-Secret-clearance_RQ216459-1?q=data+science) | 1d |
 | High Performance Computing (HPC) Computational Scientist | Dayton, OH | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Dayton/High-Performance-Computing--HPC--Computational-Scientist_RQ215758-2?q=data+science) | 1d |
-| Data Analyst | Virginia Beach, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Virginia-Beach/Data-Analyst_RQ213377?q=data+science) | 2d |
 | Data Engineer | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Data-Engineer_RQ215183-1?q=data+science) | 2d |
 | ServiceNow CMDB Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/CMDB-Data-Scientist_RQ212366-1?q=data+science) | 2d |
 | Data Scientist – Poly Clearance Required! | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Data-Scientist---Poly-Clearance-Required-_PRX25914-1?q=data+science) | 2d |
@@ -157,15 +149,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Scientist Physician (Traumatic Brain Injury) | Silver Spring, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician--Traumatic-Brain-Injury-_RQ213145-1?q=data+science) | 2d |
 | Research Scientist (Clinical Research, Traumatic Brain Injury) | Fort Carson, CO | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Fort-Carson/Research-Scientist--Clinical-Research--Traumatic-Brain-Injury-_RQ211166-1?q=data+science) | 2d |
 
-</details>
-
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
 #### 💪 **Arm** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Graduate Research Scientist, AI | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704) | 7h |
+| Graduate Research Scientist, AI | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704) | 8h |
 
 
 
@@ -175,8 +165,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (3 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
+#### ⭐ **FAANG+** (2 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (3 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -193,8 +183,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 3% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 14 | 42% | 1-2 years of experience. |
-| 🔴 Manager | 18 | 55% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 13 | 42% | 1-2 years of experience. |
+| 🔴 Manager | 17 | 55% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -206,14 +196,14 @@ List of top locations and number of positions.
 - **San Diego, CA**: 2 positions
 - **Washington, DC**: 2 positions
 - **Austin, TX**: 1 positions
-- **Cupertino, CA**: 1 positions
 - **Denver, CO**: 1 positions
+- **Bellevue, WA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 33+ verified roles for data analysts and scientists from 9 elite tech companies.
+✅ **100% Real Jobs:** 31+ verified roles for data analysts and scientists from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -274,18 +264,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 45 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 39 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 45 positions
+📁 **Total Jobs:** 39 positions
 
-🏢 **Companies:** 9 companies
+🏢 **Companies:** 8 companies
 
 
-### 🏢 **FAANG+** (20 positions)
+### 🏢 **FAANG+** (15 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -307,34 +297,18 @@ Either still hiring or useful for research.
 | Data Engineer, Machine Learning, Google Customer Solutions | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142665041177387718-data-engineer-machine-learning-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 2w |
 | Product Data Scientist, Education, Data Science | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105366743093781190-product-data-scientist-education-data-science?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Data Scientist, Chrome, Research | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122075382424707782-data-scientist-chrome-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
+| Business Data Scientist, Ads Revenue | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143458403241337542-business-data-scientist-ads-revenue?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
 | Data Scientist/Analyst, Corporate Financial Planning and Analysis | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133361249734795974-data-scientistanalyst-corporate-financial-planning-and-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 | Business Data Scientist, Trust and Safety | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143159336078582470-business-data-scientist-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
-| Business Data Scientist, Ads Revenue | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143458403241337542-business-data-scientist-ads-revenue?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
 | Research Data Scientist, Vertical Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125826502708077254-research-data-scientist-vertical-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 
-#### 🍎 **Apple** (5 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Research Scientist, AI Evaluation Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649482-3337/research-scientist-ai-evaluation-science?team=SFTWR) | 1w |
-| Data Scientist, AIML Data Scientist | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-0836/data-scientist-aiml-data-scientist?team=SFTWR) | 1w |
-| Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 1w |
-| Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 1w |
-| Data Scientist - Battery | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643116-0836/data-scientist-battery?team=HRDWR) | 1w |
-
-### 🏢 **Top Tech** (2 positions)
+### 🏢 **Top Tech** (1 position)
 
 #### 🔶 **AMD** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist- Business Planning, Pricing | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/78465/login) | 4w |
-
-#### ☁️ **Salesforce** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| AI Engineer, Agent Systems | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/) | 2w |
 
 ### 💻 **Enterprise Software** (3 positions)
 
@@ -358,10 +332,9 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0233210?q=data+science) | 1w |
 | Data Science Strategist | San Antonio, TX | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Science-Strategist_R0234509?q=data+science) | 2w |
 | Data Scientist | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0229725?q=data+science) | 2w |
-| Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229687-1?q=data+science) | 3w |
-| Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0233210?q=data+science) | 1w |
 | Data Scientist | Edgewood, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Edgewood-MD/Data-Scientist_R0235233?q=data+science) | 1w |
 | Data Scientist | Ashburn, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Data-Scientist_R0235384?q=data+science) | 1w |
 | Data Scientist | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0235037?q=data+science) | 1w |
@@ -373,6 +346,7 @@ Either still hiring or useful for research.
 | Data Scientist | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0234929?q=data+science) | 2w |
 | Data Scientist, Mid | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0229747?q=data+science) | 2w |
 | Data Scientist, Junior | Charleston, SC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Data-Scientist--Junior_R0234571?q=data+science) | 2w |
+| Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229687-1?q=data+science) | 3w |
 | Data Scientist | Buckley AFB, CO | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234099?q=data+science) | 3w |
 | Data Scientist | Scott AFB, IL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Data-Scientist_R0233873?q=data+science) | 4w |
 | Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0233869?q=data+science) | 4w |
@@ -395,7 +369,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 33 current opportunities from 9 elite companies.**
+**🎯 31 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
