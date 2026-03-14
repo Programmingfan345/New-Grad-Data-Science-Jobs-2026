@@ -1,10 +1,4 @@
 {
-  "jpmorgan-chase-data-engineer/aws-columbus": {
-    "assigned_date": "2026-01-12T21:26:00.315Z",
-    "job_title": "Data Engineer/AWS",
-    "company": "JPMorgan Chase",
-    "first_seen": "2026-01-12T21:26:00.315Z"
-  },
   "google-research-scientist,-google-research-kirkland": {
     "assigned_date": "2026-01-13T21:28:02.283Z",
     "job_title": "Research Scientist, Google Research",
@@ -328,5 +322,11 @@
     "job_title": "Data Engineer",
     "company": "AMD",
     "first_seen": "2026-03-13T21:06:18.675Z"
+  },
+  "abb-regulatory-data-analyst-fort-smith": {
+    "assigned_date": "2026-03-14T02:17:22.357Z",
+    "job_title": "Regulatory Data Analyst",
+    "company": "ABB",
+    "first_seen": "2026-03-14T02:17:22.357Z"
   }
 }
