@@ -1,10 +1,4 @@
 {
-  "google-research-scientist,-google-research-kirkland": {
-    "assigned_date": "2026-01-13T21:28:02.283Z",
-    "job_title": "Research Scientist, Google Research",
-    "company": "Google",
-    "first_seen": "2026-01-13T21:28:02.283Z"
-  },
   "google-business-data-scientist,-consumer-support,-gup-analytics-boulder": {
     "assigned_date": "2026-01-19T07:50:45.644Z",
     "job_title": "Business Data Scientist, Consumer Support, gUP Analytics",
@@ -328,5 +322,11 @@
     "job_title": "Regulatory Data Analyst",
     "company": "ABB",
     "first_seen": "2026-03-14T02:17:22.357Z"
+  },
+  "google-research-scientist,-modeling-of-readout-and-reset,-quantum-goleta": {
+    "assigned_date": "2026-03-15T20:02:52.223Z",
+    "job_title": "Research Scientist, Modeling of Readout and Reset, Quantum",
+    "company": "Google",
+    "first_seen": "2026-03-15T20:02:52.223Z"
   }
 }
