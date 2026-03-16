@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Amazon",
-    "job_title": "Data Engineer II, Global Network Delivery",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "21h",
-    "job_description": "data science job for the role Data Engineer II, Global Network Delivery",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3205975/data-engineer-ii-global-network-delivery",
-    "id": "amazon-data-engineer-ii-global-network-delivery-seattle"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Regulatory Data Analyst",
     "job_city": "Fort Smith",
