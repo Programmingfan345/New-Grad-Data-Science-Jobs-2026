@@ -11,7 +11,7 @@
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-39-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-11-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-11-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -76,7 +76,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (11 positions)
+### 🏢 **FAANG+** (12 positions)
 
 #### 📦 **Amazon** (4 positions)
 
@@ -87,13 +87,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Machine Learning Scientist - GenAI, AWS Support | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3202612/machine-learning-scientist-genai-aws-support) | 6d |
 | Data Scientist, Amazon Leo Global Planning, Amazon Leo | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3202656/data-scientist-amazon-leo-global-planning-amazon-leo) | 6d |
 
-#### 🟢 **Google** (6 positions)
+#### 🟢 **Google** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Product Data Scientist, G1 and Photos | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/141306467859735238-product-data-scientist-g1-and-photos?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1h |
 | Product Data Scientist, Search | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127631291989271238-product-data-scientist-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1h |
-| Business and Marketing Data Scientist | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130773902379885254-business-and-marketing-data-scientist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 17h |
-| Data Scientist, Ecosystem Analysis | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105787088321815238-data-scientist-ecosystem-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 19h |
+| Business and Marketing Data Scientist | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130773902379885254-business-and-marketing-data-scientist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 18h |
+| Data Scientist, Ecosystem Analysis | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105787088321815238-data-scientist-ecosystem-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 20h |
 | Business Data Scientist, YouTube Marketing Shopping | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122137822659257030-business-data-scientist-youtube-marketing-shopping?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1d |
 | Product Data Scientist III, Analytics Insights and Measurement | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/90084101893038790-product-data-scientist-iii-analytics-insights-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3d |
 | Data Scientist/Analyst, Corporate Financial Planning and Analysis | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133361249734795974-data-scientistanalyst-corporate-financial-planning-and-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
@@ -165,20 +166,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Scientist Physician (Traumatic Brain Injury) | Silver Spring, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician--Traumatic-Brain-Injury-_RQ213145-1?q=data+science) | 6d |
 | Research Scientist (Clinical Research, Traumatic Brain Injury) | Fort Carson, CO | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Fort-Carson/Research-Scientist--Clinical-Research--Traumatic-Brain-Injury-_RQ211166-1?q=data+science) | 6d |
 
-### 🏭 **Manufacturing & Industrial** (3 positions)
+### 🏭 **Manufacturing & Industrial** (2 positions)
 
-#### 💪 **Arm** (2 positions)
+#### 💪 **Arm** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| FP&A Data Engineer | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/cambridge/fp-and-a-data-engineer/33099/86421401568) | 1h |
 | Graduate Research Scientist, AI | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704) | 4d |
 
 #### 💾 **Micron Technology** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IT Business Intelligence Analyst | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40879029) | 14h |
+| IT Business Intelligence Analyst | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40879029) | 2d |
 
 
 
@@ -189,7 +189,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (6 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (4)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (7 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (4)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -206,8 +206,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 3% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 18 | 46% | 1-2 years of experience. |
-| 🔴 Manager | 20 | 51% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 20 | 51% | 1-2 years of experience. |
+| 🔴 Manager | 18 | 46% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -220,7 +220,7 @@ List of top locations and number of positions.
 - **Seattle, WA**: 2 positions
 - **Washington, DC**: 2 positions
 - **McLean, VA**: 2 positions
-- **Cambridge, MA**: 1 positions
+- **San Francisco, CA**: 1 positions
 
 ---
 
@@ -298,7 +298,7 @@ Either still hiring or useful for research.
 🏢 **Companies:** 11 companies
 
 
-### 🏢 **FAANG+** (23 positions)
+### 🏢 **FAANG+** (22 positions)
 
 #### 📦 **Amazon** (5 positions)
 
@@ -310,18 +310,17 @@ Either still hiring or useful for research.
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3185471/data-engineer-aws-dc-central-operations) | 3w |
 | Data Scientist, Rapid & Rural Logistics (R2L) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3187361/data-scientist-rapid-rural-logistics-r2l) | 3w |
 
-#### 🟢 **Google** (11 positions)
+#### 🟢 **Google** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Data Scientist, Global Network Demand Modeling, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105512712926044870-research-data-scientist-global-network-demand-modeling-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1w |
 | Business Data Scientist, YouTube Partner Program | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86462849341104838-business-data-scientist-youtube-partner-program?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1w |
+| Research Data Scientist, Search Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108381424662258374-research-data-scientist-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1w |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116931683420119750-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1w |
 | Business Data Scientist, Customer Voice, Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92419084217393862-business-data-scientist-customer-voice-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1w |
-| Research Data Scientist, Search Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108381424662258374-research-data-scientist-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1w |
 | Data Engineer, Machine Learning, Google Customer Solutions | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142665041177387718-data-engineer-machine-learning-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 2w |
+| Research Data Scientist, Global Network Demand Modeling, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105512712926044870-research-data-scientist-global-network-demand-modeling-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1w |
 | Data Scientist, Research, gTrade | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135046512223625926-data-scientist-research-gtrade?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
-| Data Scientist, Chrome, Research | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122075382424707782-data-scientist-chrome-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127950988953690822-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
 | Business Data Scientist, Trust and Safety | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143159336078582470-business-data-scientist-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
 | Business Data Scientist, Ads Revenue | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143458403241337542-business-data-scientist-ads-revenue?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
@@ -337,6 +336,14 @@ Either still hiring or useful for research.
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 1w |
 | Data Scientist - Battery | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643116-0836/data-scientist-battery?team=HRDWR) | 1w |
 | Research Scientist, AI Evaluation Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649482-3337/research-scientist-ai-evaluation-science?team=SFTWR) | 2w |
+
+### 🏢 **Top Tech** (1 position)
+
+#### ☁️ **Salesforce** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| AI Engineer, Agent Systems | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/) | 2w |
 
 ### 💻 **Enterprise Software** (2 positions)
 
