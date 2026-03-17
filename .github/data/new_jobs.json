@@ -1,12 +1,12 @@
 [
   {
     "employer_name": "Amazon",
-    "job_title": "Data Scientist I, SHAKE",
-    "job_city": "Seattle",
+    "job_title": "Data Scientist, Demand Forecasting",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "16h",
-    "job_description": "data science job for the role Data Scientist I, SHAKE",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3206663/data-scientist-i-shake",
-    "id": "amazon-data-scientist-i-shake-seattle"
+    "job_posted_at": "17h",
+    "job_description": "data science job for the role Data Scientist, Demand Forecasting",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3206851/data-scientist-demand-forecasting",
+    "id": "amazon-data-scientist-demand-forecasting-bellevue"
   }
 ]
