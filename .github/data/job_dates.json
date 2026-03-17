@@ -352,5 +352,17 @@
     "job_title": "IT Business Intelligence Analyst",
     "company": "Micron Technology",
     "first_seen": "2026-03-16T21:41:29.156Z"
+  },
+  "arm-fp&a-data-engineer-cambridge": {
+    "assigned_date": "2026-03-17T11:17:57.870Z",
+    "job_title": "FP&A Data Engineer",
+    "company": "Arm",
+    "first_seen": "2026-03-17T11:17:57.870Z"
+  },
+  "google-product-data-scientist,-search-mountain-view": {
+    "assigned_date": "2026-03-17T11:17:57.870Z",
+    "job_title": "Product Data Scientist, Search",
+    "company": "Google",
+    "first_seen": "2026-03-17T11:17:57.870Z"
   }
 }
