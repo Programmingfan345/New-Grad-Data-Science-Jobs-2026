@@ -4,14 +4,14 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Data Science Jobs" width="200">
 
 <h3>💼 New Grad Data Science Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 10</em></p>
+<p><em>Real-time job opportunities from 11</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-29-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-31-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-11-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-13-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 29+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 11+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 31+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,25 +65,26 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 29 hot data-focused jobs
-- 🏢 **Top Companies:** 10 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 31 hot data-focused jobs
+- 🏢 **Top Companies:** 11 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** March 19, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 52 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 55 (older than 1 week)
 
 ---
 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (12 positions)
+### 🏢 **FAANG+** (13 positions)
 
-#### 📦 **Amazon** (2 positions)
+#### 📦 **Amazon** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Scientist II, Amazon Stores Finance Science | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3206835/data-scientist-ii-amazon-stores-finance-science) | 2d |
+| Data Scientist I, SHAKE | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3206663/data-scientist-i-shake) | 2d |
 | Data Engineer II, Global Network Delivery | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3205975/data-engineer-ii-global-network-delivery) | 3d |
-| AI Platform Data Engineer II, Ring Decision Science | Hawthorne, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3206072/ai-platform-data-engineer-ii-ring-decision-science) | 3d |
 
 #### 🟢 **Google** (10 positions)
 
@@ -151,7 +152,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | AI Engineer | Falls Church, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AI-Engineer_RQ216141-1?q=data+science) | 6d |
 | AI/ML Engineer (Tactical Networks - CANES) - Active Secret clearance | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/AI-ML-Engineer--Tactical-Networks---CANES----Active-Secret-clearance_RQ216459-1?q=data+science) | 6d |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (3 positions)
 
 #### 💪 **Arm** (1 position)
 
@@ -165,6 +166,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | IT Business Intelligence Analyst | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40879029) | 2d |
 
+#### ⚡ **ABB** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Regulatory Data Analyst | Fort Smith, AR | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00020370/Regulatory-Data-Analyst) | 5d |
+
 
 
 ---
@@ -174,7 +181,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (10 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (10 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -190,19 +197,19 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 1 | 3% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 17 | 59% | 1-2 years of experience. |
-| 🔴 Manager | 11 | 38% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 2 | 6% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 18 | 58% | 1-2 years of experience. |
+| 🔴 Manager | 11 | 35% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 5 positions
+- **Seattle, WA**: 3 positions
 - **San Jose, CA**: 2 positions
 - **Austin, TX**: 2 positions
 - **New York, NY**: 2 positions
-- **Seattle, WA**: 2 positions
 - **Washington, DC**: 2 positions
 - **Falls Church, VA**: 2 positions
 - **San Bruno, CA**: 1 positions
@@ -211,7 +218,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 29+ verified roles for data analysts and scientists from 10 elite tech companies.
+✅ **100% Real Jobs:** 31+ verified roles for data analysts and scientists from 11 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -272,18 +279,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 52 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 55 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 52 positions
+📁 **Total Jobs:** 55 positions
 
-🏢 **Companies:** 10 companies
+🏢 **Companies:** 11 companies
 
 
-### 🏢 **FAANG+** (22 positions)
+### 🏢 **FAANG+** (25 positions)
 
 #### 📦 **Amazon** (8 positions)
 
@@ -293,9 +300,9 @@ Either still hiring or useful for research.
 | Machine Learning Scientist - GenAI, AWS Support | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3202612/machine-learning-scientist-genai-aws-support) | 1w |
 | Business Intelligence Engineer, GCID (Global Capacity & Infrastructure Development) | Denver, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3203609/business-intelligence-engineer-gcid-global-capacity-infrastructure-development) | 1w |
 | Applied Scientist, Applied AI Solutions | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3198811/applied-scientist-applied-ai-solutions) | 1w |
-| Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3193573/applied-scientist-spx-ai-lab) | 2w |
-| Data Engineer II, Ring/Blink Customer Service Engineering and Insights | Hawthorne, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3188513/data-engineer-ii-ring-blink-customer-service-engineering-and-insights) | 3w |
-| Data Scientist, Rapid & Rural Logistics (R2L) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3187361/data-scientist-rapid-rural-logistics-r2l) | 3w |
+| Applied Scientist II, GenAI Evaluation Media (GEM) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3201459/applied-scientist-ii-genai-evaluation-media-gem) | 1w |
+| Applied Scientist, TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3196284/applied-scientist-tsi-science) | 2w |
+| Applied Scientist, Foundational Capabilities, AWS Applied AI Solutions Core Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3190739/applied-scientist-foundational-capabilities-aws-applied-ai-solutions-core-services) | 3w |
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3185471/data-engineer-aws-dc-central-operations) | 4w |
 
 #### 🟢 **Google** (9 positions)
@@ -305,22 +312,25 @@ Either still hiring or useful for research.
 | Research Data Scientist, Search Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108381424662258374-research-data-scientist-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1w |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116931683420119750-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1w |
 | Business Data Scientist, Customer Voice, Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92419084217393862-business-data-scientist-customer-voice-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1w |
-| Data Engineer, Machine Learning, Google Customer Solutions | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142665041177387718-data-engineer-machine-learning-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
 | Research Data Scientist, Global Network Demand Modeling, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105512712926044870-research-data-scientist-global-network-demand-modeling-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Data Scientist, Research, gTrade | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135046512223625926-data-scientist-research-gtrade?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 | Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127950988953690822-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
+| Data Engineer, Machine Learning, Google Customer Solutions | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142665041177387718-data-engineer-machine-learning-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3w |
 | Business Data Scientist, Trust and Safety | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143159336078582470-business-data-scientist-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4w |
 | Business Data Scientist, Ads Revenue | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143458403241337542-business-data-scientist-ads-revenue?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4w |
 
-#### 🍎 **Apple** (5 positions)
+#### 🍎 **Apple** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 1w |
+| Data Scientist, AIML Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-3337/data-scientist-aiml-data-scientist?team=SFTWR) | 1w |
 | Data Scientist, AIML Data Scientist | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-0836/data-scientist-aiml-data-scientist?team=SFTWR) | 1w |
+| Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 1w |
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 1w |
 | Data Engineer, Find My | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR) | 1w |
 | Research Scientist, AI Evaluation Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649482-3337/research-scientist-ai-evaluation-science?team=SFTWR) | 2w |
+| Data Scientist - Battery | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200643116-0836/data-scientist-battery?team=HRDWR) | 2w |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -400,7 +410,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 29 current opportunities from 10 elite companies.**
+**🎯 31 current opportunities from 11 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
