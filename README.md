@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 9 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** March 21, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 56 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 55 (older than 1 week)
 
 ---
 
@@ -92,9 +92,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Search Ads Data Scientist, Product, Gmail Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72567766850118342-search-ads-data-scientist-product-gmail-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Business Data Scientist, Finance | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92020292208992966-business-data-scientist-finance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3d |
 | Product Data Scientist, Search | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127631291989271238-product-data-scientist-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
-| Business and Marketing Data Scientist | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130773902379885254-business-and-marketing-data-scientist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Product Data Scientist, Search Verticals and Translate | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125173385284985542-product-data-scientist-search-verticals-and-translate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Data Scientist, Ecosystem Analysis | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105787088321815238-data-scientist-ecosystem-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
+| Business and Marketing Data Scientist | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130773902379885254-business-and-marketing-data-scientist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Business Data Scientist, YouTube Marketing Shopping | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122137822659257030-business-data-scientist-youtube-marketing-shopping?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 5d |
 | Data Scientist/Analyst, Corporate Financial Planning and Analysis | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133361249734795974-data-scientistanalyst-corporate-financial-planning-and-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Business Data Scientist, Trust and Safety | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143159336078582470-business-data-scientist-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1mo |
@@ -183,8 +183,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 4% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 21 | 81% | 1-2 years of experience. |
-| 🔴 Manager | 4 | 15% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 20 | 77% | 1-2 years of experience. |
+| 🔴 Manager | 5 | 19% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -264,13 +264,13 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 56 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 55 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 56 positions
+📁 **Total Jobs:** 55 positions
 
 🏢 **Companies:** 9 companies
 
@@ -282,9 +282,9 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer II, Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3199404/data-engineer-ii-managed-operations-data-science-mods) | 1w |
-| Business Intelligence Engineer, GCID (Global Capacity & Infrastructure Development) | Denver, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3203609/business-intelligence-engineer-gcid-global-capacity-infrastructure-development) | 1w |
-| Data Engineer II, Amazon Payment Products | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3199507/data-engineer-ii-amazon-payment-products) | 1w |
 | Machine Learning Scientist - GenAI, AWS Support | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3202612/machine-learning-scientist-genai-aws-support) | 1w |
+| Data Engineer II, Amazon Payment Products | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3199507/data-engineer-ii-amazon-payment-products) | 1w |
+| Business Intelligence Engineer, GCID (Global Capacity & Infrastructure Development) | Denver, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3203609/business-intelligence-engineer-gcid-global-capacity-infrastructure-development) | 1w |
 | Applied Scientist, Applied AI Solutions | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3198811/applied-scientist-applied-ai-solutions) | 2w |
 | Applied Scientist, TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3196284/applied-scientist-tsi-science) | 2w |
 | Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3193573/applied-scientist-spx-ai-lab) | 2w |
@@ -382,19 +382,13 @@ Either still hiring or useful for research.
 | AI/ML Engineer (Tactical Networks - CANES) - Active Secret clearance | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/AI-ML-Engineer--Tactical-Networks---CANES----Active-Secret-clearance_RQ216459-1?q=data+science) | 1w |
 | Research Scientist (Clinical Research, Traumatic Brain Injury) | Fort Carson, CO | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Fort-Carson/Research-Scientist--Clinical-Research--Traumatic-Brain-Injury-_RQ211166-1?q=data+science) | 1w |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (1 position)
 
 #### 💪 **Arm** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Graduate Research Scientist, AI | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704) | 1w |
-
-#### 🔧 **Texas Instruments** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Career Accelerator Program - Data Engineer | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007813/?keyword=data+science&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 3w |
 
 
 
