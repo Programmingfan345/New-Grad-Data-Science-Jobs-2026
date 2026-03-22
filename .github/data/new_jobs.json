@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Data Engineer",
+    "job_city": "MacDill AFB",
+    "job_state": "FL",
+    "job_posted_at": "1d",
+    "job_description": "Same-page description extraction failed",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Data-Engineer_RQ216901-1?q=data+science",
+    "id": "general-dynamics-data-engineer-macdill-afb"
+  }
+]
