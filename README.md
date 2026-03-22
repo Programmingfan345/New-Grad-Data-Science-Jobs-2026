@@ -90,7 +90,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Search Ads Data Scientist, Product, Gmail Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72567766850118342-search-ads-data-scientist-product-gmail-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
-| Business Data Scientist, Finance | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92020292208992966-business-data-scientist-finance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3d |
+| Business Data Scientist, Finance | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92020292208992966-business-data-scientist-finance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4d |
 | Data Scientist, Ecosystem Analysis | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105787088321815238-data-scientist-ecosystem-analysis?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Product Data Scientist, Search | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127631291989271238-product-data-scientist-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Business and Marketing Data Scientist | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130773902379885254-business-and-marketing-data-scientist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
@@ -178,8 +178,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 4% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 21 | 81% | 1-2 years of experience. |
-| 🔴 Manager | 4 | 15% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 22 | 85% | 1-2 years of experience. |
+| 🔴 Manager | 3 | 12% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -280,8 +280,8 @@ Either still hiring or useful for research.
 | Data Engineer II, Amazon Payment Products | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3199507/data-engineer-ii-amazon-payment-products) | 1w |
 | Business Intelligence Engineer, GCID (Global Capacity & Infrastructure Development) | Denver, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3203609/business-intelligence-engineer-gcid-global-capacity-infrastructure-development) | 1w |
 | Applied Scientist, Applied AI Solutions | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3198811/applied-scientist-applied-ai-solutions) | 2w |
+| Applied Scientist, TSI Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3196284/applied-scientist-tsi-science) | 2w |
 | Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3193573/applied-scientist-spx-ai-lab) | 2w |
-| Data Engineer II, Ring/Blink Customer Service Engineering and Insights | Hawthorne, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3188513/data-engineer-ii-ring-blink-customer-service-engineering-and-insights) | 3w |
 | Data Scientist, Rapid & Rural Logistics (R2L) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3187361/data-scientist-rapid-rural-logistics-r2l) | 3w |
 
 #### 🟢 **Google** (8 positions)
@@ -303,8 +303,8 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Engineer, Find My | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR) | 1w |
 | Research Scientist, AI Evaluation Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649482-3337/research-scientist-ai-evaluation-science?team=SFTWR) | 2w |
-| Data Scientist, AIML Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-3337/data-scientist-aiml-data-scientist?team=SFTWR) | 2w |
 | Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 2w |
+| Data Scientist, AIML Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-3337/data-scientist-aiml-data-scientist?team=SFTWR) | 2w |
 | Data Scientist, AIML Data Scientist | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647918-0836/data-scientist-aiml-data-scientist?team=SFTWR) | 2w |
 | Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 2w |
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 2w |
